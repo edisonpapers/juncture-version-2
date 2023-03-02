@@ -26,10 +26,11 @@ Similar to the *image* viewer, map zooming is controlled using the buttons locat
 
 # Heading - Diary Pic
 
-This is a test of a specific diary page
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=5 left
 
-This is a test of an image hosted on the TAEP website
+This is a test of a specific diary page
 
 .ve-media https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg right
+
+This is a test of an image hosted on the TAEP website. Does not work the same way for non IIIF images
