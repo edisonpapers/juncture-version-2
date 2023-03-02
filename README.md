@@ -1,5 +1,11 @@
 # Hello, Juncture
 
+ve-config 
+       title="Edison Sci-Fi Exhibit"
+       author="The Edison Papers Project"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       layout="vertical"
+
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
 ## Aulacophora indica
@@ -25,7 +31,6 @@ An alternative to using a Wikidata identifier for map positioning is to use regu
 Similar to the *image* viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
 # Heading - Diary Pic
-
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=5 left
 
