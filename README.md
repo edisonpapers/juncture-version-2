@@ -38,4 +38,10 @@ They are wandering jewlets to wander forever in the printers world Dont like Dic
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg right
 
-This is a test of an image hosted on the TAEP website. Does not work the same way for non IIIF images
+This is a test of an image hosted on the TAEP website. You can actually **drag & drop** these images so you don't have to generate the tags yourself!
+
+==Charlotte Bronte=={Q127332}
+
+==Charlotte Bronte=={Q127332}
+
+==Charlotte Bronte=={Q127332}
