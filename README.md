@@ -38,7 +38,7 @@ They are wandering jewlets to wander forever in the printers world Dont like ==D
 
 This is a test of an image hosted on the TAEP website. You can actually **drag & drop** these images so you don't have to generate the tags yourself!
 
-## Image 2
+## Villiers
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left
 
