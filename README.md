@@ -10,7 +10,9 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 
 The image does not depict a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
-This image is hosted on the [Thomas A. Edison Papers Digital Edition](https://edisondigital.rutgers.edu/document/MA001). 
+This image is hosted on the [Thomas A. Edison Papers Digital Edition](https://edisondigital.rutgers.edu/document/MA001). Notice the link doesn't open in a new tab...oh no!
+
+Using a tool that functions as a markdown external link opener we can make it open in a new tab: [Same link, but opens in new tab](https://external.ink?to=/edisondigital.rutgers.edu/document/MA001). It works!
 
 Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
