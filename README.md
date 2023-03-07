@@ -44,4 +44,4 @@ This is a test of an image hosted on the TAEP website. You can actually **drag &
 
 This is to show how to get a static image into the juncture essay
 
-.ve-media default:https%3A//hdl.handle.net/2027/mdp.39015073180377
+.ve-iframe https://babel.hathitrust.org/cgi/pt?id=mdp.39015073180377&view=1up&seq=1
