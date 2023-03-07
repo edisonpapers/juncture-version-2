@@ -10,13 +10,12 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 
 The image does not depict a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
-This image is hosted on the Thomas A. Edison Papers Digital Edition [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+This image is hosted on the [Thomas A. Edison Papers Digital Edition](https://edisondigital.rutgers.edu/document/MA001). 
 
 Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
 Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
-This is a simple test of the Vincent van Gogh popover.
 
 ## Chitwan National Park, Nepal
 
