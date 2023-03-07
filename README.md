@@ -1,10 +1,6 @@
-# Hello, Juncture
+.ve-header
 
-.ve-config 
-       title=Edison Sci-Fi Exhibit
-       author="The Edison Papers Project"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical"
+# Juncture 2 Test Essay
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
@@ -20,6 +16,8 @@ Image controls are located in the top-left corner of the image and can be seen w
 
 Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
+This is a simple test of the Vincent van Gogh popover.
+
 ## Chitwan National Park, Nepal
 
 .ve-map Q1075023 right
@@ -30,12 +28,14 @@ An alternative to using a Wikidata identifier for map positioning is to use regu
 
 Similar to the *image* viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
-# Heading - Diary Pic
+# Diary Pic
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=5 left
 
 This is a test of a specific diary page
 
-.ve-media https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg right
+# Website Hosted Image (Non-IIIF)
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg right
 
 This is a test of an image hosted on the TAEP website. Does not work the same way for non IIIF images
