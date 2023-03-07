@@ -43,3 +43,5 @@ This is a test of an image hosted on the TAEP website. You can actually **drag &
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left
 
 This is to show how to get a static image into the juncture essay
+
+.ve-media default:https%3A//hdl.handle.net/2027/mdp.39015073180377
