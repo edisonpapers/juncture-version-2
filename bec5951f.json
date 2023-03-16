@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Edison's response to the April Fool's Story",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/bec5951f0584d82285d5a4e479a067d1bcb8e86b235290f2d4087b2096963035",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:241.4065399169922,144.55035400390625,471.9307403564453,99.70399475097656"
+      },
+      "id": "bec5951f"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "627d1795"
+  }
+]
