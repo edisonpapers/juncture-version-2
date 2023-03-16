@@ -1,4 +1,4 @@
-.ve-header "Edison-and-Science-Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "Configured by TAEP Team" pct:3,23,80,20 center sticky
+.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "Configured by TAEP Team" pct:3,23,80,20 center sticky
 
 ## Introduction 
 
@@ -8,9 +8,21 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg right width=80%
 
-Almost as soon as Thomas Edison became famous for his invention of the phonograph in early 1878 journalists and writers began to depict him as the “[Inventor of the Age](https://edisondigital.rutgers.edu/document/MBSB10561),” capable of producing any invention he set his mind to and as the embodiment of the forces of science and technology that were transforming the modern world. Some of the earliest accounts played humorously with his growing legend. The first was New York Daily Graphic reporter William Croffut’s fantastical [April Fool’s story](https://edisondigital.rutgers.edu/document/MBSB10470X) of Edison’s machine for manufacturing food out of “air, water and common earth.”  It was Crouffut who dubbed Edison the "[Wizard of Menlo Park](https://edisondigital.rutgers.edu/document/MBSB10500X)."
+Almost as soon as Thomas Edison became famous for his invention of the phonograph in early 1878 journalists and writers began to depict him as the “[Inventor of the Age](https://edisondigital.rutgers.edu/document/MBSB10561),” capable of producing any invention he set his mind to and as the embodiment of the forces of science and technology that were transforming the modern world. Some of the earliest accounts played humorously with his growing legend. The first was New York Daily Graphic reporter William Croffut’s fantastical [April Fool’s story](https://edisondigital.rutgers.edu/document/MBSB10470X) of Edison’s machine for manufacturing food out of “air, water and common earth.”  
+
+## Edison as the Wizard
+
+.ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3
+
+It was Crouffut who dubbed Edison the "[Wizard of Menlo Park](https://edisondigital.rutgers.edu/document/MBSB10500X)."
+
+=="View the Headline=={164,1,392,252}
+
+## Heading
 
 Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “[telephonoscope](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0006/image),” for transmitting pictures and sound like an early television, and his “[anti-gravitation underclothing](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0002/image).” 
+
+.ve-media default:https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=80%
 
