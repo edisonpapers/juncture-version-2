@@ -1,47 +1,232 @@
-.ve-header "TAEP Juncture 2 Test Essay" https://edisondigital.rutgers.edu/iiif/MA001 "Configured by TAEP Team" pct:3,23,80,20 center sticky
+.ve-header "Edison-and-Science-Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "Configured by TAEP Team" pct:3,23,80,20 center sticky
 
-# Welcome!
+## Introduction 
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+In the exhibit that follows we explore the ways in which Edison, during his lifetime, speculated about the technological future and inspired others to imagine how science and technology would change society.  The centerpiece of this exhibit is the collaboration between Edison and journalist George Parsons Lathrop on a novel of the future in the style of Edward Bellamy’s Looking Backward.  It also examines serious and satirical fiction  in which Edison appears as a protaganist and dime novels known as Edisonades.  It concludes by looking at Edison’s own speculations about the future that appeared in newspaper and journal interviews.
 
-## Aulacophora indica
+## The Wizard of Menlo Park
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 right
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg right width=80%
 
-The image does not depict a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+Almost as soon as Thomas Edison became famous for his invention of the phonograph in early 1878 journalists and writers began to depict him as the “[Inventor of the Age](https://edisondigital.rutgers.edu/document/MBSB10561),” capable of producing any invention he set his mind to and as the embodiment of the forces of science and technology that were transforming the modern world. Some of the earliest accounts played humorously with his growing legend. The first was New York Daily Graphic reporter William Croffut’s fantastical [April Fool’s story](https://edisondigital.rutgers.edu/document/MBSB10470X) of Edison’s machine for manufacturing food out of “air, water and common earth.”  It was Crouffut who dubbed Edison the "[Wizard of Menlo Park](https://edisondigital.rutgers.edu/document/MBSB10500X)."
 
-This image is hosted on the [Thomas A. Edison Papers Digital Edition](https://edisondigital.rutgers.edu/document/MA001). Notice the link doesn't open in a new tab...oh no! Nicole will ask Ron about this. 
+Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “[telephonoscope](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0006/image),” for transmitting pictures and sound like an early television, and his “[anti-gravitation underclothing](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0002/image).” 
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=80%
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+A more serious literary effort was a short story written by French author Villiers de l’Isle-Adam in 1878.  Inspired by the emergence of the Edison legend he conceived a story he called “L’Andréïde paradoxale d’Edison,” which he subsequently expanded into a novel entitled [L’Eve future](https://archive.org/details/lvefuture00villuoft/page/n8), published in 1886. In the preface to his book de l’Isle-Adam explained how the emerging Edison myth inspired his story (and would inspire others): “Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?”
 
-## Chitwan National Park, Nepal
+This would not be the last time that Edison inspired a literary work that embodied elements of what would become known as science fiction.  Indeed, Edison himself collaborated with journalist and writer George Parsons Lathrop on a novel of the future to be entitled “Progress.” 
 
-.ve-map Q1075023 right
+Always willing to accommodate journalists requesting interviews, Edison also become a ready source of expertise on issues of science and technology. As the twentieth century approached there was a growing interest in speculations about the future and Edison was asked him to meditate on its technological possibilities. In 1890, for example, the editor of the North American Review requested that he contribute “[a few hundred words](https://edisondigital.rutgers.edu/document/D9004AFQ)” on the future of electricity. A year earlier, the editor of The Forum, after publishing a humorous account of the year 2889 by Jules Verne, thought it appropriate to call on the world’s preeminent inventor to write a more “[serious article, undertaking to show what invention may possibly produce in 1000 years.](https://edisondigital.rutgers.edu/document/D8907AAH)” While Edison declined these invitations to write articles, he was more than willing to speculate about the future when interviewed by journalists. 
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+## Tomorrow's Eve
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow01.jpeg right width=80%
 
-Similar to the *image* viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enormous press attention that was given to Thomas Edison and his newly invented phonograph to write a story he called “L’Andréïde paradoxale d’Edison.”  He subsequently expanded this into a novel entitled  L’Eve future, which was first published in 1886.  In the novel, Edison creates an android—the Eve of the title—that is not only indistinguishable from its human model but even considered a marked improvement upon it.
 
-# Diary Pic
+## View "L'Eve future"
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=5 left
+.ve-iframe https://archive.org/details/lvefuture00villuoft/page/n7/mode/2up
 
-They are wandering jewlets to wander forever in the printers world Dont like ==Dickens=={Q5686}—dont know why I'l stock my literary cellar with his works later. ==Charlotte Bronte=={Q127332} was like ==DeQuincy=={Q317160}, what a nice married couple they would have been I must read ==Jane Eyre=={Q182961}. played a little on the piano its badly out of tune two keys have lost their voice. Dot has just read to me outlines of her proposed novel, the basis seems to be a marriage under duress I told her that in case of a marriage to put in bucketfulls of misery. This would make it realistic. speaking of realism in painting etc ==Steele Mackaye=={Q1668569} at a dinner given to H H Porter, ==Wm Winter=={Q8020478} and myself told us of a difinition of modern realism given by some frenchman whose name I have forgotten. "Realism, a dirty long haired painter sitting on the head of a bust of Shakespeare painting a pair of old [bo-] boots covered with dung" The bell rings for supper I goe Sardines the principal attraction on seeing them was attacked by a stroke of vivid memory of some sardines I eat last winter that caused a rebellion in the labyrinth of my stomach could scarcely swallow them today
+### Heading Break
 
-# Website Hosted Image (Non-IIIF)
+Although the means by which the fictional Edison employs his phonograph, microphone, electric motors, and even the techniques of mesmerism to create the android has little basis in technological fact, Villiers’s invocation of the famous inventor and his inventions provides a sense of verisimilitude for the fantastic tale that he tells.  In writing his novel, Villiers clearly drew on contemporary newspaper and magazine accounts of the famous inventor to create his fictional Edison, who was already becoming a legendary figure seen as capable of producing any invention and embodying the forces of science and technology that were transforming the modern world.   
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg right
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% 
 
-This is a test of an image hosted on the TAEP website. You can actually **drag & drop** these images so you don't have to generate the tags yourself!
+> In America and in Europe a legend has sprung up in the popular mind regarding this great citizen of the United States.  He has become the recipient of thousands of nicknames, such as “The Magician of the Century,” “The Sorcerer of Menlo Park,” the “Papa of the Phonograph,” and so forth and so on.  A perfectly natural enthusiasm in his own country and elsewhere has conferred on him a kind of mystique, or something like it, in many minds. Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?  For example, if Doctor Johann Faust had been living in the age of Goethe and had given rise to his symbolic legend at that time, wouldn’t the writing of Faust, even then, have been a perfectly legitimate undertaking? Thus, the Edison of the present work, his character, his dwelling, his language, and his theories, are and ought to be at least somewhat distinct from anything existing in reality. Let it be understood, then, that I interpret a modern legend to the best advantage of Art-metaphysics that I have conceived; and that, in a word, the hero of this book is above all “The Sorcerer of Menlo Park,” and so forth—and not the engineer, Mr. Edison, our contemporary.
+[quoted from Robert Martin Adams’s translation, Tomorrow’s Eve, University of Illinois Press, 1982]
 
-## Villiers
+## Looking Backward
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg right width=80%
 
-This is to show how to get a static image into the juncture essay
+Edward Bellamy’s 1888 novel, Looking Backward 2000–1887, describes a futuristic society in the year 2000 to which the main character, Julian West, travels from the year 1887. He does this via suspended animation, the major mode of time travel in in early science fiction writings. In the book, West awakes in an America transformed by a non-violent revolution that abolished private property in favor of state ownership, thus eliminating social classes and social ills such as war, poverty, crime, and labor strife.
 
-.ve-iframe https://babel.hathitrust.org/cgi/pt?id=mdp.39015073180377&view=1up&seq=1
+Looking Backward was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by Looking Backward was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg  width=25%
+
+> LEARN MORE
+> 
+> Read about the literary response to Bellamy’s book see Justin Nordstrom, “Looking Backward’s Utopian Sequels: ‘Fictional Dialogues’ in Gilded-Age America,” Utopian Studies 18:2 (2007), pp. 193-22
+
+## Edison and Lathrop
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop01.jpeg right width=80%
+
+The relationship between George Parsons Lathrop, the journalist/author and Edison, the inventor, began in 1885 when Lathrop interviewed Edison at his New York laboratory.  He reconnected with Edison again in in late 1887 and early 1888 in connection with the promotion of the inventor’s new wax-cylinder phonograph. In June 1888 Lathrop was involved in the effort to create a company to fund an amusement phonograph and also proposed a biography of the inventor to be published by Samuel Clemens’s publishing company, Charles L. Webster and Co. Neither of these ventures reached fruition but Lathrop continued to propose articles on Edison, finally publishing a new interview with him in the February 1890 issue of Harper’s New Monthly Magazine.
+
+Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop02.jpeg left width=80%
+
+When Lathrop interviewed Edison in 1890 he presented the inventor with some of his novels.  In response Edison asked if Lathrop wanted “to see my novel?”  Edison then showed him one of his notebooks full of rough sketches and notes. ““These ideas are occurring to me all the time. . . . I just jot them down here whenever they strike me, day or night, and keep them with the hope of getting the leisure to develop them.”  Lathrop noted that this “curious little manuscript volume, in its particular way, answered precisely to the character and use of a story-writer’s note-book. He was right in calling it his ’novel’ for it was full of the keenest imagination.” This notebook likely inspired Lathrop to propose the following June that Edison provide him with similar kinds of notes for their novel.
+
+## Collaborating on Progress
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating01.jpeg right width=80%
+
+In June 1890, George Parsons Lathrop approached Edison with a proposal from Samuel Sidney McClure, proprietor of the first U.S. literary syndicate supplying fiction to newspapers.  The proposal was for a “story something after the style of Bellamy’s ‘Looking Backward’” with Edison supplying “ideas of the possibilities of the future” and Lathrop authoring the story. Lathrop and McClure considered Edison’s ideas to be “the backbone of the work.” 
+
+.ve-media default:https%3A//edison.rutgers.edu/images/Tate_Alfred_1890.jpg left width=80%
+
+Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
+
+### The Story Emerges
+ 
+Having “agreed with McClure to write the book by December 15th,” Lathrop found himself pleading with Edison's private secretary Alfred Tate to arrange a meeting with Edison. A series of letters between June and late August 1890 reveal Lathrop’s futile attempts to meet with Edison to work on the novel. By October, Edison’s frequent delays propelled Lathrop to express his frustration to Tate that the “collaborative story matter has been waiting, now, over three months since Mr. Edison gave it his sanction, & time passes.” This apparently prompted Edison to send Lathrop his first set of notes. After copying them Lathrop sent back the notes, which he called “immense,” and suggested that Edison provide him with “the phonograph cylinders, to which you dictate your further ideas for the novel.” 
+
+> VIEW EDISONS NOTES FOR LATHROP 
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating03.jpeg right width=80%
+
+On November 22 Lathrop sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
+
+As the new year opened, Tate reported to Lathrop that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, Lathrop had to beg Edison’s wife Mina to “gather together the chapters” and send them back.
+
+### The Collaboration Fails
+
+By mid-August of 1891, Lathrop had ran out of patience and poured out his frustrations in a seventeen page letter to Edison. He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
+
+“I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating04.jpeg left width=80%
+
+Lathrop’s letter went unanswered, prompting him to write again on August 18: “I do not understand on what principle you can reconcile to so being one in the bunch, after promising your cooperation; nor why you should ignore my communications.” Perhaps prompted by  this letter, Tate finally sent Lathrop’s earlier letter to Edison. Edison finally read Latrhop’s letter and at the end of August Tate sent Edison’s notes back to the writer telling him that Edison had been spending all his time at the ore milling works “in order to get things in proper shape.”
+
+Lathrop continued in his efforts to arrange a meeting with Edison but the inventor’s other projects kept him away from the laboratory. Although Edison subsequently provided Lathrop with another thirty pages at the end of January 1892, Lathrop again failed in his efforts to meet with Edison to discuss the story.  However, Lathrop did not give up and, at the end of 1896, he finally succeeded in publishing a version titled “In the Deep of Time.”
+
+## In the Deep of Time
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg right width=80%
+
+After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
+
+The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg left width=80%
+
+“In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
+
+After waking up in the 22nd century, Bemis experiences a drastically new world with unfamiliar people and futuristic technologies such as electric trains and carriages, mail carriers that fly through the air, and an “anti-gravitational machine or the interstellar express car.” The latter device enabled travel to Mars while an interplanetary telegraph system utilizing the large iron deposits found in the Penokee mountains enabled communication with the planet.
+
+Other ideas incorporated from Edison’s notes include the use of vaccinations, food made from wood fibers, and even a Darwinian Society breeding apes to make them more intelligent. The story also includes technologies such as motion pictures and a variety of artificial materials used to replicate expensive items such leather, gold, and silk that Edison had actively worked to develop.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg left width=80%
+
+After exploring the future and its many new technologies, Bemis nonetheless was led to conclude: “With all the improvements in machinery, inventions and modes of life, human nature, also, has somewhat improved; but not radically altered. Its passions good and bad remain much the same, together with its weakness, fickleness and treachery.”
+
+## Edisonades
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=80%
+
+Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “Edisonades” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
+
+The first dime novel to feature a boy inventor was Edward S Ellis’s The Steam Man of the Praries, published in 1868.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=80%
+
+Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the Frank Reade Jr. series, written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
+
+The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades03.jpeg right width=80%
+
+## Edison's Conquest of Mars
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png right width=80%
+
+In 1897, H.G. Wells’s The War of the Worlds was serialized in the British journal Pearson’s Magazine and in the American magazine Cosmopolitan before it was published as a book. This popular serialized story soon appeared in unauthorized and heavily revised versions in several American newspapers using alternative titles, such as “Fighters from Mars” in the New York Evening Journal and “The War of the Worlds in and Near Boston” in the Boston Post. These unauthorized serializations, made possible by the very lax U.S. copyright laws, inspired the publication of an unauthorized sequel titled “Edison’s Conquest of Mars.”
+
+This sequel was commissioned by Arthur Brisbane, editor of the New York Evening Journal and was written by George Serviss, an author and lecturer known for his work on astronomy. As a consequence of this commission, Serviss would publish a number of science fiction stories. At Brisbane’s urging, Serviss called on Edison in the hopes that he would agree to collaborate on the story. 
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars02.jpeg left width=80%
+
+Edison declined because, as he later told Serviss, “I am not literary with a 200 Horsepower imagination like yourself. . . . don’t want a reputation for things I cant do.” Edison did, however, agree to allow Serviss to make him the hero of the story in which he  develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars03.png right width=80%
+
+The first installment of the story appeared on January 14, but Edison’s estranged son, Thomas Alva Jr., saw an announcement of the story before it was published and told his stepmother, Mina, about it in a January 10 letter:
+
+> I notice by the Journal that father has invented flying machines and etc. to attack Mars and a story is to appear this week entitled “Edison’s Conquest of Mars.” Very probably he is not aware that such an article is in existence but it is creating quite a stir over in the city…People come right in to my office and aske me if its is true and if I have any thing to do with it.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars04.jpeg right width=80%
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars05.jpeg left width=80%
+
+Edison expressed his own concerns about the story in a January 14 telegram to Brisbane in which he objected to the announcement being “worded in such a way that it undoubtedly bring me in as a collaborator.” Brisbane responded by sending Edison the first installment and detailing his understanding of how the story came to be written. He went on to ask Edison to explain “in what way the announcement says that you are a collaborator.” He concluded his letter by noting, “The Evening Journal presents you to its readers as the hero in an extremely clever fiction story—which seems to me to be perfectly legitimate and to which, Mr. Serviss tells me, you assented.  It presents you in no other light.” Edison replied that “the picture of myself and Serviss would imply colaboration and that is the reason I objected.” Later news reports suggest that Edison tried to publicly distance himself from the story.
+
+> READ EDISON'S CONQUEST OF MARS
+
+> LISTEN TO EDISON'S CONQUEST OF MARS
+
+## Edison's Speculations on the Future
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future01.jpeg right width=80%
+
+Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in 1878 and 1888.  His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.  The earliest were his interviews with George Parsons Lathrop discussed earlier in this exhibit. 
+
+### Alternative Energy
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80%
+
+In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. An 1896 interview appears to be the first time that Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. In another interview withthe New York correspondent of the London Daily Telegraph on the future of electric automobiles and storage batteries. In 1910, he further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the 1910 book Little Journeys to the Homes of Great Men.  “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
+
+### Medicine
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future03.jpeg right width=80%
+
+One of Edison’s most oft-quote speculations appeared in an interview with a reporter from the St. Louis Post-Dispatch published on January 1, 1903: “The doctor of the future will give no medicine, but will instruct his patient in the care of the human frame, in diet and cause and prevention of diseases.” In this interview Edison expressed his expectation of “great advances in surgery, in the study of bacteria, in the knowledge of the cause and prevention of disease.” And in an era when patent medicines were still common, he noted, “Every new discovery in bacteria shows us all the more convincingly that we have been wrong and that the million tons of stuff we have taken was all useless.”
+
+### Machines and Labor
+
+One of the great topics of Edison’s era, which remains a source of controversy today, is the role of machines in replacing labor.  His most detailed discussion of this subject appeared in one of several interviews conducted by journalist Edward Marshall. In 1926, Marshall published two interviews with Edison in The Forum.  The first of these bore the title “Machine-Made Freedom.” Edison believed that “Man will progress in intellectual things according to his release from the mere motor-tasks.” The value of replacing human with machine power, he argued, was illustrated by the history of slavery:  
+
+While slave labor was available, the brains of men in general were not stimulated to the creation of machinery. This was more disastrous in its general effects than was realized by the majority, even of those opposed to slavery. It meant that human beings all along the line, not only the enslaved but the enslavers, could not be released by machinery for efforts better and more elevating than those to which they had been habituated in the past. Progress of mind became impossible.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=80%
+
+That is the reason why I call machinery the greatest of emancipators. I will go farther and say that human slavery will not have been fully abolished until every task now accomplished by human hands is turned out by some machine, if it can be done as well or better by a machine.
+
+Edison thought that electrical appliances would also liberate women from housework, a subject he had addressed in a 1912 interview with Marshall that appeared in Good Housekeeping under the title “The Woman of the Future.”
+
+“The housewife of the future will be neither a slave to servants nor herself a drudge. She will give less attention to the home, because the home will need less; she will be rather a domestic engineer than a domestic laborer, with the greatest of all handmaidens, electricity, at her service. This and other mechanical forces will so revolutionize the woman’s world that a large portion of the aggregate of woman’s energy will be conserved for use in broader, more constructive fields.”
+
+Edison believed that electricity would fundamentally change the way we lived.  His prediction, reported in the November 14, 1914 issue of the Literary Journal in an article titled “Edison’s Prophecy: A Duplex, Sleepless, Dinnerless World,” sounds eerily prophetic: “In the old days man went up and down with the sun.  A million years from now we won’t go to bed at all.  Really, sleep is an absurdity, a bad habit.  We can’t suddenly throw off the thraldom of the habit, but we shall throw it off.” 
+
+### Cities
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg right width=80%
+
+Edison’s faith in science and technology to improve the human condition is apparent in another 1926 interview with Edward Marshall titled “The Scientific City of the Future.” In this interview Edison focuses on the same problem that would be the subject of General Motors Futurama exhibit designed by Norman Bel Geddes for the 1939 New York World’s Fair—automobile congestion.  Edison thought that this problem could be solved by mathematicians and traffic engineering combined with the use of buses on streets and helicopters flying between skyscrapers. The city would be run by scientifically trained managers instead of politicians who would also ensure that the police were scientifically trained and managed.  However, because Edison thought that his own deafness was an advantage. he dismissed concerns about noise pollution and suggested that “city dweller of the future… will be sufficiently deafened by Nature so that the noisest places will not be disagreeable to him.”
+
+## Communicating with the Dead
+
+Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating01.jpeg right width=80%
+
+Edison elaborated on this idea in a 1910 New York Times interview with Edward Marshall. This interview and its headline with headline“’No Immortality of the Soul’ Says Thomas A. Edison” stirred up an enormous controversy.  This is also the first time Edison proposed that it might be possible to scientifically prove (or disprove) spiritualist beliefs in the existence of consciousness beyond death.
+
+A decade later, in interviews that appeared in Scientific American  and The American Magazine, he claimed to be working on an apparatus that could be used by psychic investigators to try to communicate with the dead.
+
+“I am not promising communication with those who have passed out of this life. I merely state that I am giving the psychic investigators an apparatus which may help them ln their work, just as optical experts have given the microscope to the medical world. And if this apparatus falls to reveal anything of exceptional interest, I am afraid that I shall have lost all faith in the survival of personality as we know it in this existence.”
+
+If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “Has Man an Immortal Soul” in the November 1926 issue of The Forum. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating02.jpeg left width=80%
+
+“There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
+
+No verifiable evidence has ever been found regarding Edison’s work on a device to communicate with the dead.  Nonetheless, the belief has persisted that Edison built such a device and some have even claimed to have knowledge of what the device looked like. The first description of such a device appeared in the October 1933 issue of Modern Mechanix:
+
+In a darkened room in his great laboratory, surrounded with beakers, generators, and other experimental equipment, Edison set up a photo-electric cell. A tiny pencil of light, coming from a powerful lamp, bored through the darkness and struck the active surface of this cell, where it was transformed instantly into a feeble electric current. Any object, no matter how thin, transparent or small, would cause a registration on the cell if it cut through the beam. This experiment, which the article describes as a failure, is likely related to Edison's experiments to find an unknown force he called "XYX." These experiments began in December 1885 and continued periodically into the 1920s.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating01.jpeg right
+
+An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
+
+A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show History Detectives, which drew on research by the staff of the Edison Papers.
