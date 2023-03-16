@@ -50,10 +50,10 @@ Edward Bellamy’s 1888 novel, Looking Backward 2000–1887, describes a futuris
 
 Looking Backward was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by Looking Backward was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
-.ve-iframe https://archive.org/details/lookingbackward200bell/mode/2up
+.ve-iframe https://archive.org/details/lookingbackward200bell/mode/2up width=60% height=500px
 
-> LEARN MORE
-> 
+## Learn More
+ 
 > Read about the literary response to Bellamy’s book see Justin Nordstrom, “Looking Backward’s Utopian Sequels: ‘Fictional Dialogues’ in Gilded-Age America,” Utopian Studies 18:2 (2007), pp. 193-22
 
 ## Edison and Lathrop
@@ -64,9 +64,13 @@ The relationship between George Parsons Lathrop, the journalist/author and Ediso
 
 Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop02.jpeg left width=80%
-
 When Lathrop interviewed Edison in 1890 he presented the inventor with some of his novels.  In response Edison asked if Lathrop wanted “to see my novel?”  Edison then showed him one of his notebooks full of rough sketches and notes. ““These ideas are occurring to me all the time. . . . I just jot them down here whenever they strike me, day or night, and keep them with the hope of getting the leisure to develop them.”  Lathrop noted that this “curious little manuscript volume, in its particular way, answered precisely to the character and use of a story-writer’s note-book. He was right in calling it his ’novel’ for it was full of the keenest imagination.” This notebook likely inspired Lathrop to propose the following June that Edison provide him with similar kinds of notes for their novel.
+
+## Harper's Interview
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop02.jpeg left width=80% 
+
+.ve-media https://edisondigital.rutgers.edu/iiif/SC90012A right width=80%
 
 ## Collaborating on Progress
 
