@@ -12,11 +12,11 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 
 ## Edison as the Wizard
 
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=60%
+
 .ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3 width=80%
 
 It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
-
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=60%
 
 
 ## Heading
