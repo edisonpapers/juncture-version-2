@@ -14,7 +14,7 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=60%
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3 width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3
 
 It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
 
@@ -23,11 +23,9 @@ It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
 
 Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “[telephonoscope](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0006/image),” for transmitting pictures and sound like an early television, and his “[anti-gravitation underclothing](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0002/image).” 
 
-A more serious literary effort was a short story written by French author Villiers de l’Isle-Adam in 1878.  Inspired by the emergence of the Edison legend he conceived a story he called “L’Andréïde paradoxale d’Edison,” which he subsequently expanded into a novel entitled [L’Eve future](https://archive.org/details/lvefuture00villuoft/page/n8), published in 1886. In the preface to his book de l’Isle-Adam explained how the emerging Edison myth inspired his story (and would inspire others): “Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?”
+.ve-media gh:edisonpapers/media/Anti-gravitationClothing/Anti-gravitation_Clothing.jpg left width=60%
 
-This would not be the last time that Edison inspired a literary work that embodied elements of what would become known as science fiction.  Indeed, Edison himself collaborated with journalist and writer George Parsons Lathrop on a novel of the future to be entitled “Progress.” 
-
-Always willing to accommodate journalists requesting interviews, Edison also become a ready source of expertise on issues of science and technology. As the twentieth century approached there was a growing interest in speculations about the future and Edison was asked him to meditate on its technological possibilities. In 1890, for example, the editor of the North American Review requested that he contribute “[a few hundred words](https://edisondigital.rutgers.edu/document/D9004AFQ)” on the future of electricity. A year earlier, the editor of The Forum, after publishing a humorous account of the year 2889 by Jules Verne, thought it appropriate to call on the world’s preeminent inventor to write a more “[serious article, undertaking to show what invention may possibly produce in 1000 years.](https://edisondigital.rutgers.edu/document/D8907AAH)” While Edison declined these invitations to write articles, he was more than willing to speculate about the future when interviewed by journalists. 
+.ve-media gh:edisonpapers/media/Telephonoscope/Telephonoscope.jpg right width=60%
 
 ## Tomorrow's Eve
 
@@ -35,13 +33,9 @@ Always willing to accommodate journalists requesting interviews, Edison also bec
 
 In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enormous press attention that was given to Thomas Edison and his newly invented phonograph to write a story he called “L’Andréïde paradoxale d’Edison.”  He subsequently expanded this into a novel entitled  L’Eve future, which was first published in 1886.  In the novel, Edison creates an android—the Eve of the title—that is not only indistinguishable from its human model but even considered a marked improvement upon it.
 
-## View "L'Eve future"
-
-.ve-iframe https://archive.org/details/lvefuture00villuoft/page/n7/mode/2up
-
-### Heading Break
-
 Although the means by which the fictional Edison employs his phonograph, microphone, electric motors, and even the techniques of mesmerism to create the android has little basis in technological fact, Villiers’s invocation of the famous inventor and his inventions provides a sense of verisimilitude for the fantastic tale that he tells.  In writing his novel, Villiers clearly drew on contemporary newspaper and magazine accounts of the famous inventor to create his fictional Edison, who was already becoming a legendary figure seen as capable of producing any invention and embodying the forces of science and technology that were transforming the modern world.   
+
+## Heading
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% 
 
