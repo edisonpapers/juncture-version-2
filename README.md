@@ -47,7 +47,7 @@ Edward Bellamy’s 1888 novel, Looking Backward 2000–1887, describes a futuris
 
 Looking Backward was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by Looking Backward was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg  width=25%
+.ve-iframe https://archive.org/details/lookingbackward200bell/mode/2up
 
 > LEARN MORE
 > 
