@@ -12,19 +12,16 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 
 ## Edison as the Wizard
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3
+.ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3 width=80%
 
-It was Crouffut who dubbed Edison the "[Wizard of Menlo Park](https://edisondigital.rutgers.edu/document/MBSB10500X)."
+It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
 
-=="View the Headline=={164,1,392,252}
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=60%
+
 
 ## Heading
 
 Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “[telephonoscope](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0006/image),” for transmitting pictures and sound like an early television, and his “[anti-gravitation underclothing](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0002/image).” 
-
-.ve-media default:https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg
-
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=80%
 
 A more serious literary effort was a short story written by French author Villiers de l’Isle-Adam in 1878.  Inspired by the emergence of the Edison legend he conceived a story he called “L’Andréïde paradoxale d’Edison,” which he subsequently expanded into a novel entitled [L’Eve future](https://archive.org/details/lvefuture00villuoft/page/n8), published in 1886. In the preface to his book de l’Isle-Adam explained how the emerging Edison myth inspired his story (and would inspire others): “Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?”
 
