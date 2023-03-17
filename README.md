@@ -121,8 +121,7 @@ After the collaboration on “Progress” for Sidney McClure’s syndicate faile
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg left width=60%
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg right width=60%  
-  
-    
+
 The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
 
 “In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
@@ -137,19 +136,19 @@ After exploring the future and its many new technologies, Bemis nonetheless was 
 
 ## Edisonades
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=80%
-
 Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “[Edisonades](https://www.sf-encyclopedia.com/entry/edisonade)” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=60%
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=60%
 
 The first dime novel to feature a boy inventor was Edward S Ellis’s [The Steam Man of the Praries](https://edison.rutgers.edu/digital-exhibits/edison-science-fiction/science-fiction-07#page/1/mode/1up), published in 1868.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades03.jpeg right width=80%
 
 Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the [Frank Reade Jr. series](https://library.si.edu/digital-library/book/frank-reade-weekly-magazine-containing-stories-adventures-land-sea-air), written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
 
 The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
-
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades03.jpeg right width=80%
 
 ## Edison's Conquest of Mars
 
