@@ -94,31 +94,31 @@ Having “agreed with McClure to write the book by December 15th,” Lathrop fou
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating03.jpeg right width=80%
 
-On November 22 Lathrop sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
+On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
 
-As the new year opened, Tate reported to Lathrop that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, Lathrop had to beg Edison’s wife Mina to “gather together the chapters” and send them back.
+As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers.edu/document/LB046347) that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, [Lathrop had to beg Edison’s wife Mina](https://edisondigital.rutgers.edu/document/D9112AAS) to “gather together the chapters” and send them back.
 
 ### The Collaboration Fails
 
-By mid-August of 1891, Lathrop had ran out of patience and poured out his frustrations in a seventeen page letter to Edison. He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
+By mid-August of 1891, Lathrop had ran out of patience and poured out his frustrations in a [seventeen page letter to Edison](https://edisondigital.rutgers.edu/document/D9102ACU). He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
 
 “I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating04.jpeg left width=80%
 
-Lathrop’s letter went unanswered, prompting him to write again on August 18: “I do not understand on what principle you can reconcile to so being one in the bunch, after promising your cooperation; nor why you should ignore my communications.” Perhaps prompted by  this letter, Tate finally sent Lathrop’s earlier letter to Edison. Edison finally read Latrhop’s letter and at the end of August Tate sent Edison’s notes back to the writer telling him that Edison had been spending all his time at the ore milling works “in order to get things in proper shape.”
+Lathrop’s letter went unanswered, prompting him to write again on [August 18](https://edisondigital.rutgers.edu/document/D9102ACS): “I do not understand on what principle you can reconcile to so being one in the bunch, after promising your cooperation; nor why you should ignore my communications.” Perhaps prompted by  this letter, Tate finally sent Lathrop’s earlier letter to Edison. Edison finally read Latrhop’s letter and [at the end of August](https://edisondigital.rutgers.edu/document/LB052052) Tate sent Edison’s notes back to the writer telling him that Edison had been spending all his time at the ore milling works “in order to get things in proper shape.”
 
 Lathrop continued in his efforts to arrange a meeting with Edison but the inventor’s other projects kept him away from the laboratory. Although Edison subsequently provided Lathrop with another thirty pages at the end of January 1892, Lathrop again failed in his efforts to meet with Edison to discuss the story.  However, Lathrop did not give up and, at the end of 1896, he finally succeeded in publishing a version titled “In the Deep of Time.”
 
 ## In the Deep of Time
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg width=60%
 
 After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
 
 The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg left width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg width=60%
 
 “In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
 
@@ -126,7 +126,7 @@ After waking up in the 22nd century, Bemis experiences a drastically new world w
 
 Other ideas incorporated from Edison’s notes include the use of vaccinations, food made from wood fibers, and even a Darwinian Society breeding apes to make them more intelligent. The story also includes technologies such as motion pictures and a variety of artificial materials used to replicate expensive items such leather, gold, and silk that Edison had actively worked to develop.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg left width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg width=60%
 
 After exploring the future and its many new technologies, Bemis nonetheless was led to conclude: “With all the improvements in machinery, inventions and modes of life, human nature, also, has somewhat improved; but not radically altered. Its passions good and bad remain much the same, together with its weakness, fickleness and treachery.”
 
