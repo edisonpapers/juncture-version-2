@@ -100,9 +100,9 @@ As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers
 
 ## The Collaboration Fails
 
-By mid-August of 1891, Lathrop had ran out of patience and poured out his frustrations in a [seventeen page letter to Edison](https://edisondigital.rutgers.edu/document/D9102ACU). He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
+.ve-media https://edisondigital.rutgers.edu/document/D9102ACU left width=80%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating04.jpeg left width=80%
+By August 10th of 1891, Lathrop had ran out of patience and poured out his frustrations in a [seventeen page letter to Edison](https://edisondigital.rutgers.edu/document/D9102ACU). He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
 
 “I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
 
