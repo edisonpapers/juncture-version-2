@@ -52,11 +52,11 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 *Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
-.ve-iframe https://archive.org/details/lookingbackward200bell/mode/2up width=60% height=500px
+## Read *Looking Backward*
 
-Test text
+.ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell width=60%
 
-## Learn More
+### Learn More
  
 > Read about the literary response to Bellamy’s book see [Justin Nordstrom, “Looking Backward’s Utopian Sequels: ‘Fictional Dialogues’ in Gilded-Age America,” Utopian Studies 18:2 (2007), pp. 193-22](https://www.jstor.org/stable/20719864)
 
