@@ -86,7 +86,7 @@ Lathrop’s interest in collaborating with Edison on a novel of the future seems
 
 .ve-media default:https%3A//edison.rutgers.edu/images/Tate_Alfred_1890.jpg right width=60%
 
-### The Story Emerges
+## The Story Emerges
  
 Having “agreed with McClure to write the book by December 15th,” Lathrop found himself pleading with Edison's private secretary Alfred Tate to arrange a meeting with Edison. A series of letters between June and late August 1890 reveal Lathrop’s futile attempts to meet with Edison to work on the novel. By October, Edison’s frequent delays propelled [Lathrop to express his frustration to Tate](https://edisondigital.rutgers.edu/document/D9004AES) that the “collaborative story matter has been waiting, now, over three months since Mr. Edison gave it his sanction, & time passes.” This apparently prompted Edison to send Lathrop his first set of notes. After copying them [Lathrop sent back the notes](https://edisondigital.rutgers.edu/document/D9004AEU), which he called “immense,” and suggested that Edison provide him with “the phonograph cylinders, to which you dictate your further ideas for the novel.” 
 
