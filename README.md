@@ -82,9 +82,9 @@ In June 1890, George Parsons Lathrop approached Edison with a [proposal from Sam
 
 Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating01.jpeg right width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating01.jpeg left width=60%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/Tate_Alfred_1890.jpg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/Tate_Alfred_1890.jpg right width=60%
 
 ### The Story Emerges
  
