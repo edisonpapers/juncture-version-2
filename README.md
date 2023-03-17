@@ -148,7 +148,7 @@ Philip Reade, the author of the Tom Edison, Jr. series, was among those influenc
 
 The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades03.jpeg right width=60%
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=60%
 
