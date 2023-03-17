@@ -98,7 +98,7 @@ On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) se
 
 As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers.edu/document/LB046347) that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, [Lathrop had to beg Edison’s wife Mina](https://edisondigital.rutgers.edu/document/D9112AAS) to “gather together the chapters” and send them back.
 
-### The Collaboration Fails
+## The Collaboration Fails
 
 By mid-August of 1891, Lathrop had ran out of patience and poured out his frustrations in a [seventeen page letter to Edison](https://edisondigital.rutgers.edu/document/D9102ACU). He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
 
