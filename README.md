@@ -118,9 +118,9 @@ Lathrop continued in his efforts to arrange a meeting with Edison but the invent
 
 After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg right width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg left width=60%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg right width=60%
 
 The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
 
