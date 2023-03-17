@@ -118,7 +118,7 @@ After the collaboration on “Progress” for Sidney McClure’s syndicate faile
 
 The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg left width=80%
 
 “In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
 
