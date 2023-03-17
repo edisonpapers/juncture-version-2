@@ -96,11 +96,7 @@ On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) se
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D9004AFW right width=60% seq=28 caption="Edison's Notes for Lathrop"
 
-## Heading
-
 As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers.edu/document/LB046347) that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, [Lathrop had to beg Edison’s wife Mina](https://edisondigital.rutgers.edu/document/D9112AAS) to “gather together the chapters” and send them back.
-
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating03.jpeg right width=80%
 
 ## The Collaboration Fails
 
