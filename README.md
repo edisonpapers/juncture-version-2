@@ -102,9 +102,9 @@ As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers
 
 By mid-August of 1891, Lathrop had ran out of patience and poured out his frustrations in a [seventeen page letter to Edison](https://edisondigital.rutgers.edu/document/D9102ACU). He detailed the history of their difficult collaboration and made it clear that he had been unable to complete the story due to his inability to meet with the inventor.  He explained that he could not write an entire book on vague and simple ideas, and needed further explanation of Edison’s notes. Edison had only detailed “two or three” of his ideas, which was not enough for Lathrop to complete the novel. He wrote frankly about his frustrations with their collaboration.
 
-“I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating04.jpeg left width=80%
+
+“I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
 
 Lathrop’s letter went unanswered, prompting him to write again on [August 18](https://edisondigital.rutgers.edu/document/D9102ACS): “I do not understand on what principle you can reconcile to so being one in the bunch, after promising your cooperation; nor why you should ignore my communications.” Perhaps prompted by  this letter, Tate finally sent Lathrop’s earlier letter to Edison. Edison finally read Latrhop’s letter and [at the end of August](https://edisondigital.rutgers.edu/document/LB052052) Tate sent Edison’s notes back to the writer telling him that Edison had been spending all his time at the ore milling works “in order to get things in proper shape.”
 
