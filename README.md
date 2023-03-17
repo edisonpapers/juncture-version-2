@@ -90,13 +90,13 @@ Lathrop’s interest in collaborating with Edison on a novel of the future seems
  
 Having “agreed with McClure to write the book by December 15th,” Lathrop found himself pleading with Edison's private secretary Alfred Tate to arrange a meeting with Edison. A series of letters between June and late August 1890 reveal Lathrop’s futile attempts to meet with Edison to work on the novel. By October, Edison’s frequent delays propelled [Lathrop to express his frustration to Tate](https://edisondigital.rutgers.edu/document/D9004AES) that the “collaborative story matter has been waiting, now, over three months since Mr. Edison gave it his sanction, & time passes.” This apparently prompted Edison to send Lathrop his first set of notes. After copying them [Lathrop sent back the notes](https://edisondigital.rutgers.edu/document/D9004AEU), which he called “immense,” and suggested that Edison provide him with “the phonograph cylinders, to which you dictate your further ideas for the novel.” 
 
-> [VIEW EDISONS NOTES FOR LATHROP ](https://edisondigital.rutgers.edu/document/D9004AFW)
-
 On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D9004AFJ left width=60% caption="Lathrop's November 22nd Letter"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D9004AFW right width=60% seq=28 caption="Edison's Notes for Lathrop"
+
+## Heading
 
 As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers.edu/document/LB046347) that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, [Lathrop had to beg Edison’s wife Mina](https://edisondigital.rutgers.edu/document/D9112AAS) to “gather together the chapters” and send them back.
 
