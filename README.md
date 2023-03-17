@@ -23,7 +23,7 @@ It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
 
 Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “[telephonoscope](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0006/image),” for transmitting pictures and sound like an early television, and his “[anti-gravitation underclothing](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0002/image).” 
 
-.ve-media gh:edisonpapers/media/Anti-gravitationClothing/Anti-gravitation_Clothing.jpg left width=60%
+.ve-media gh:edisonpapers/media/Anti-gravitationClothing/Anti-gravitation_Clothing.jpg left width=60% caption="Anti-Gravitation Clothing"
 
 .ve-media gh:edisonpapers/media/Telephonoscope/Telephonoscope.jpg right width=60%
 
@@ -78,7 +78,7 @@ When Lathrop interviewed Edison in 1890 he presented the inventor with some of h
 
 ## Collaborating on Progress
 
-In June 1890, George Parsons Lathrop approached Edison with a [proposal from Samuel Sidney McClure](https://edison.rutgers.edu/digital/document/D9004ADA), proprietor of the first U.S. literary syndicate supplying fiction to newspapers.  The proposal was for a “story something after the style of Bellamy’s ‘Looking Backward’” with Edison supplying “[ideas of the possibilities of the future](https://edison.rutgers.edu/digital/document/D9004ADI)” and Lathrop authoring the story. Lathrop and McClure considered Edison’s ideas to be “the backbone of the work.” 
+In June 1890, George Parsons Lathrop approached Edison with a [proposal from Samuel Sidney McClure](https://edisondigital.rutgers.edu/document/D9004ADA), proprietor of the first U.S. literary syndicate supplying fiction to newspapers.  The proposal was for a “story something after the style of Bellamy’s ‘Looking Backward’” with Edison supplying “[ideas of the possibilities of the future](https://edisondigital.rutgers.edu/document/D9004ADI)” and Lathrop authoring the story. Lathrop and McClure considered Edison’s ideas to be “the backbone of the work.” 
 
 Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
 
@@ -92,11 +92,15 @@ Having “agreed with McClure to write the book by December 15th,” Lathrop fou
 
 > [VIEW EDISONS NOTES FOR LATHROP ](https://edisondigital.rutgers.edu/document/D9004AFW)
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating03.jpeg right width=80%
-
 On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
 
+.ve-media https://edisondigital.rutgers.edu/iiif/D9004AFJ left width=60% caption="Lathrop's November 22nd Letter"
+
+.ve-media https://edisondigital.rutgers.edu/iiif/D9004AFW right width=60% seq=28 caption="Edison's Notes for Lathrop"
+
 As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers.edu/document/LB046347) that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, [Lathrop had to beg Edison’s wife Mina](https://edisondigital.rutgers.edu/document/D9112AAS) to “gather together the chapters” and send them back.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating03.jpeg right width=80%
 
 ## The Collaboration Fails
 
