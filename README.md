@@ -54,7 +54,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 ## Read *Looking Backward*
 
-.ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell
+.ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell/manifest.json
 
 ### Learn More
  
@@ -64,7 +64,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop01.jpeg right width=80%
 
-The relationship between George Parsons Lathrop, the journalist/author and Edison, the inventor, began in 1885 when [Lathrop interviewed Edison](http://edisondigital.rutgers.edu/document/SM062045) at his New York laboratory.  He reconnected with Edison again in in late 1887 and early 1888 in connection with the promotion of the inventor’s new wax-cylinder phonograph. In June 1888 Lathrop was involved in the effort to create a company to fund an amusement phonograph and also proposed a biography of the inventor to be published by Samuel Clemens’s publishing company, Charles L. Webster and Co. Neither of these ventures reached fruition but Lathrop continued to propose articles on Edison, finally publishing a new interview with him in the February 1890 issue of Harper’s New Monthly Magazine.
+The relationship between George Parsons Lathrop, the journalist/author and Edison, the inventor, began in 1885 when [Lathrop interviewed Edison](https://edisondigital.rutgers.edu/document/SM062045) at his New York laboratory.  He reconnected with Edison again in in late 1887 and early 1888 in connection with the promotion of the inventor’s new wax-cylinder phonograph. In June 1888 Lathrop was involved in the effort to create a company to fund an [amusement phonograph](https://edisondigital.rutgers.edu/document/D8805ADT) and also [proposed a biography of the inventor](https://edisondigital.rutgers.edu/document/D8805ADT) to be published by Samuel Clemens’s publishing company, Charles L. Webster and Co. Neither of these ventures reached fruition but Lathrop continued to propose articles on Edison, finally publishing a new interview with him in the [February 1890 issue of Harper’s New Monthly Magazine](https://edisondigital.rutgers.edu/document/SC90012A).
 
 Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
 
@@ -78,17 +78,17 @@ When Lathrop interviewed Edison in 1890 he presented the inventor with some of h
 
 ## Collaborating on Progress
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating01.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-collaborating01.jpeg right width=60%
 
-In June 1890, George Parsons Lathrop approached Edison with a proposal from Samuel Sidney McClure, proprietor of the first U.S. literary syndicate supplying fiction to newspapers.  The proposal was for a “story something after the style of Bellamy’s ‘Looking Backward’” with Edison supplying “ideas of the possibilities of the future” and Lathrop authoring the story. Lathrop and McClure considered Edison’s ideas to be “the backbone of the work.” 
+.ve-media default:https%3A//edison.rutgers.edu/images/Tate_Alfred_1890.jpg left width=60%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/Tate_Alfred_1890.jpg left width=80%
+In June 1890, George Parsons Lathrop approached Edison with a [proposal from Samuel Sidney McClure](https://edison.rutgers.edu/digital/document/D9004ADA), proprietor of the first U.S. literary syndicate supplying fiction to newspapers.  The proposal was for a “story something after the style of Bellamy’s ‘Looking Backward’” with Edison supplying “[ideas of the possibilities of the future](https://edison.rutgers.edu/digital/document/D9004ADI)” and Lathrop authoring the story. Lathrop and McClure considered Edison’s ideas to be “the backbone of the work.” 
 
 Lathrop’s interest in collaborating with Edison on a novel of the future seems to have been inspired by earlier interviews with the inventor. At the conclusion of his 1885 article and interview, Lathrop described Edison as able to “manipulate as at will and without interruption the mysterious forces and properties of nature. In meeting him I thought of him more as a poet or a musician than as a machinist and electrician. . . .perfecting man’s control over the elements that shape life.”
 
 ### The Story Emerges
  
-Having “agreed with McClure to write the book by December 15th,” Lathrop found himself pleading with Edison's private secretary Alfred Tate to arrange a meeting with Edison. A series of letters between June and late August 1890 reveal Lathrop’s futile attempts to meet with Edison to work on the novel. By October, Edison’s frequent delays propelled Lathrop to express his frustration to Tate that the “collaborative story matter has been waiting, now, over three months since Mr. Edison gave it his sanction, & time passes.” This apparently prompted Edison to send Lathrop his first set of notes. After copying them Lathrop sent back the notes, which he called “immense,” and suggested that Edison provide him with “the phonograph cylinders, to which you dictate your further ideas for the novel.” 
+Having “agreed with McClure to write the book by December 15th,” Lathrop found himself pleading with Edison's private secretary Alfred Tate to arrange a meeting with Edison. A series of letters between June and late August 1890 reveal Lathrop’s futile attempts to meet with Edison to work on the novel. By October, Edison’s frequent delays propelled [Lathrop to express his frustration to Tate](https://edisondigital.rutgers.edu/document/D9004AES) that the “collaborative story matter has been waiting, now, over three months since Mr. Edison gave it his sanction, & time passes.” This apparently prompted Edison to send Lathrop his first set of notes. After copying them [Lathrop sent back the notes](https://edisondigital.rutgers.edu/document/D9004AEU), which he called “immense,” and suggested that Edison provide him with “the phonograph cylinders, to which you dictate your further ideas for the novel.” 
 
 > VIEW EDISONS NOTES FOR LATHROP 
 
