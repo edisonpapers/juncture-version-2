@@ -98,7 +98,7 @@ On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) se
 
 As the new year opened, [Tate reported to Lathrop](https://edisondigital.rutgers.edu/document/LB046347) that Edison had “tried to dictate the notes to the phonograph, but failed. He has, however, about 56 pages of notes ready.” Lathrop even managed to meet with Edison to receive these notes  However, Lathrops’s subsequent efforts to meet with Edison, including a visit with McClure, were stymied by the inventor’s busy schedule on more important inventive projects. Lathrop succeeded in writing new chapters, which he sent to Edison in mid-May, but the inventor failed to provide any feedback and, in late June, [Lathrop had to beg Edison’s wife Mina](https://edisondigital.rutgers.edu/document/D9112AAS) to “gather together the chapters” and send them back.
 
-## The Collaboration Fails
+## Lathrop's Frustrations
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D9102ACU right width=70%
 
@@ -106,7 +106,7 @@ By August 10th of 1891, Lathrop had ran out of patience and poured out his frust
 
 “I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
 
-## 
+## The Collaboration Fails
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D9102ACS left width=80%
 
