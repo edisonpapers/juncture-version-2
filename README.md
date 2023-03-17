@@ -54,7 +54,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 ## Read *Looking Backward*
 
-.ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell/manifest.json
+.ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell/manifest.json width=60%
 
 ### Learn More
  
@@ -136,13 +136,13 @@ After exploring the future and its many new technologies, Bemis nonetheless was 
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=80%
 
-Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “Edisonades” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
+Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “[Edisonades](https://www.sf-encyclopedia.com/entry/edisonade)” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
 
-The first dime novel to feature a boy inventor was Edward S Ellis’s The Steam Man of the Praries, published in 1868.
+The first dime novel to feature a boy inventor was Edward S Ellis’s [The Steam Man of the Praries](https://edison.rutgers.edu/digital-exhibits/edison-science-fiction/science-fiction-07#page/1/mode/1up), published in 1868.
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=80%
 
-Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the Frank Reade Jr. series, written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
+Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the [Frank Reade Jr. series](https://library.si.edu/digital-library/book/frank-reade-weekly-magazine-containing-stories-adventures-land-sea-air), written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
 
 The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
 
