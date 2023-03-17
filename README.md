@@ -124,9 +124,11 @@ The technologies depicted in the story were mainly derived from the extant set o
 
 After waking up in the 22nd century, Bemis experiences a drastically new world with unfamiliar people and futuristic technologies such as electric trains and carriages, mail carriers that fly through the air, and an “anti-gravitational machine or the interstellar express car.” The latter device enabled travel to Mars while an interplanetary telegraph system utilizing the large iron deposits found in the Penokee mountains enabled communication with the planet.
 
-Other ideas incorporated from Edison’s notes include the use of vaccinations, food made from wood fibers, and even a Darwinian Society breeding apes to make them more intelligent. The story also includes technologies such as motion pictures and a variety of artificial materials used to replicate expensive items such leather, gold, and silk that Edison had actively worked to develop.
+### Other Ideas
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg left width=80%
+
+Other ideas incorporated from Edison’s notes include the use of vaccinations, food made from wood fibers, and even a Darwinian Society breeding apes to make them more intelligent. The story also includes technologies such as motion pictures and a variety of artificial materials used to replicate expensive items such leather, gold, and silk that Edison had actively worked to develop.
 
 After exploring the future and its many new technologies, Bemis nonetheless was led to conclude: “With all the improvements in machinery, inventions and modes of life, human nature, also, has somewhat improved; but not radically altered. Its passions good and bad remain much the same, together with its weakness, fickleness and treachery.”
 
