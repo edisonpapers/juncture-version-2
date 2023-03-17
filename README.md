@@ -136,7 +136,7 @@ After exploring the future and its many new technologies, Bemis nonetheless was 
 
 ## Edisonades
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades03.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=60%
 
 Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “[Edisonades](https://www.sf-encyclopedia.com/entry/edisonade)” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
 
