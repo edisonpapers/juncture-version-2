@@ -35,7 +35,7 @@ In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enorm
 
 Although the means by which the fictional Edison employs his phonograph, microphone, electric motors, and even the techniques of mesmerism to create the android has little basis in technological fact, Villiers’s invocation of the famous inventor and his inventions provides a sense of verisimilitude for the fantastic tale that he tells.  In writing his novel, Villiers clearly drew on contemporary newspaper and magazine accounts of the famous inventor to create his fictional Edison, who was already becoming a legendary figure seen as capable of producing any invention and embodying the forces of science and technology that were transforming the modern world.   
 
-## Heading
+### Punch's Almanac
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% 
 
