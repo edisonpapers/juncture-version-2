@@ -92,7 +92,7 @@ Having “agreed with McClure to write the book by December 15th,” Lathrop fou
 
 On [November 22 Lathrop](https://edisondigital.rutgers.edu/document/D9004AFJ) sent Edison “the first division of the novel (five chapters)” and returned Edison’s notes with annotations in red on sections for which he wanted “fuller details.” These may be the surviving undated notes found in Edison’s papers. Seeing substantial progress, McClure expected the story to be ready in January and in early December announcements began to appear about the story to be written by Lathrop and “filled with drawings made by Mr. Edison to illustrate his predictions”. 
 
-.ve-media https://edisondigital.rutgers.edu/iiif/D9004AFJ left width=60% caption="Lathrop's November 22nd Letter"
+.ve-media https://edisondigital.rutgers.edu/iiif/D9004AFJ left width=80% caption="Lathrop's November 22nd Letter"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D9004AFW right width=60% seq=28 caption="Edison's Notes for Lathrop"
 
