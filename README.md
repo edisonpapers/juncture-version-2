@@ -19,7 +19,7 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
 
 
-## Heading
+## Punch's Almanack
 
 Later in the year the satirical magazine Punch’s Almanack published a series of humorous drawings depicting Edison’s “[telephonoscope](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0006/image),” for transmitting pictures and sound like an early television, and his “[anti-gravitation underclothing](https://digi.ub.uni-heidelberg.de/diglit/punch_almanack1879/0002/image).” 
 
@@ -35,7 +35,7 @@ In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enorm
 
 Although the means by which the fictional Edison employs his phonograph, microphone, electric motors, and even the techniques of mesmerism to create the android has little basis in technological fact, Villiers’s invocation of the famous inventor and his inventions provides a sense of verisimilitude for the fantastic tale that he tells.  In writing his novel, Villiers clearly drew on contemporary newspaper and magazine accounts of the famous inventor to create his fictional Edison, who was already becoming a legendary figure seen as capable of producing any invention and embodying the forces of science and technology that were transforming the modern world.   
 
-### Punch's Almanac
+### Heading
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% 
 
