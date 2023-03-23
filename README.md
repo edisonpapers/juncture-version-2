@@ -247,3 +247,5 @@ In a darkened room in his great laboratory, surrounded with beakers, generators,
 An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
 
 A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show History Detectives, which drew on research by the staff of the Edison Papers.
+
+This test exhibit was co-created by Dr. Paul Israel of the Thomas Edison Papers Project and Nicole Wines of ==Raíces Cultural Center=={Q117275357}.
