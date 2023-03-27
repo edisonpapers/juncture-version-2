@@ -193,7 +193,7 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 ### Listen to Edison's Conquest of Mars
 
-.ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox
+.ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox height=30
 
 ## Edison's Speculations on the Future
 
@@ -203,7 +203,9 @@ Besides appearing in and influencing early science fiction, Edison’s own visio
 
 ## Alternative Energy
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80%In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. An 1896 interview appears to be the first time that Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. In another interview withthe New York correspondent of the London Daily Telegraph on the future of electric automobiles and storage batteries. In 1910, he further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the 1910 book Little Journeys to the Homes of Great Men.  “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80%
+
+In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. An 1896 interview appears to be the first time that Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. In another interview withthe New York correspondent of the London Daily Telegraph on the future of electric automobiles and storage batteries. In 1910, he further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the 1910 book Little Journeys to the Homes of Great Men.  “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
 
 ## Medicine
 
