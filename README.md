@@ -251,3 +251,5 @@ An even more dubious device was described in the April 1963 issue of Fate. The a
 A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show History Detectives, which drew on research by the staff of the Edison Papers.
 
 This test exhibit was co-created by Dr. Paul Israel of the ==Thomas A. Edison Papers=={Q117275545} and Nicole Wines of ==Raíces Cultural Center=={Q117275357}.
+
+This last sentence is a test of ==custom popovers=={description="if you can see this it's working!"}. 
