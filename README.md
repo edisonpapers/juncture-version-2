@@ -252,4 +252,4 @@ A third device known as the psychophone was also attributed to Edison.  However,
 
 This test exhibit was co-created by Dr. Paul Israel of the ==Thomas A. Edison Papers=={Q117275545} and Nicole Wines of ==Raíces Cultural Center=={Q117275357}.
 
-This last sentence is a test of ==custom popovers=={description=if you can see this it's working!}. 
+This last sentence is a test of ==custom popovers=={description="if you can see this it's working!"}. 
