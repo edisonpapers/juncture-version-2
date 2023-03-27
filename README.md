@@ -160,7 +160,9 @@ The most famous of the juvenile Edisonades are the Tom Swift novels created by E
 
 In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cgi/pt?id=uc1.31175033855811&view=1up&seq=1)* was serialized in the British journal *[Pearson’s Magazine](https://babel.hathitrust.org/cgi/pt?id=iau.31858046223834&view=1up&seq=369)* and in the American magazine *[Cosmopolitan](https://babel.hathitrust.org/cgi/pt?id=uc1.aa0009972035&view=1up&seq=625)* before it was published as a book. This popular serialized story soon appeared in unauthorized and heavily revised versions in several American newspapers using alternative titles, such as “Fighters from Mars” in the New York Evening Journal and “The War of the Worlds in and Near Boston” in the *Boston Post*. These unauthorized serializations, made possible by the very lax U.S. copyright laws, inspired the publication of an unauthorized sequel titled “Edison’s Conquest of Mars.”
 
-.ve-iframe https://hdl.handle.net/2027/uc1.aa0009972035?urlappend=%3Bui=embed right seq=625
+Read
+
+.ve-iframe https://hdl.handle.net/2027/uc1.aa0009972035?urlappend=%3Bui=embed&seq=625 right
 
 This sequel was commissioned by Arthur Brisbane, editor of the New York Evening Journal and was written by George Serviss, an author and lecturer known for his work on astronomy. As a consequence of this commission, Serviss would publish a number of science fiction stories. At Brisbane’s urging, Serviss called on Edison in the hopes that he would agree to collaborate on the story. 
 
