@@ -193,7 +193,7 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 ### Listen to Edison's Conquest of Mars
 
-.ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox height=30
+.ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox height=30px
 
 ## Edison's Speculations on the Future
 
