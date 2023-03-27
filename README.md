@@ -162,7 +162,7 @@ In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cg
 
 ## Read The War of the Worlds
 
-.ve-iframe https://hdl.handle.net/2027/uc1.aa0009972035?urlappend=%3Bui=embed width=60% 
+.ve-iframe https://hdl.handle.net/2027/uc1.aa0009972035?urlappend=%3Bui=embed width=50% 
 
 ## About the Sequel
 
@@ -201,19 +201,17 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in 1878 and 1888.  His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.  The earliest were his interviews with George Parsons Lathrop discussed earlier in this exhibit. 
 
-### Alternative Energy
+## Alternative Energy
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80%In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. An 1896 interview appears to be the first time that Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. In another interview withthe New York correspondent of the London Daily Telegraph on the future of electric automobiles and storage batteries. In 1910, he further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the 1910 book Little Journeys to the Homes of Great Men.  “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
 
-In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. An 1896 interview appears to be the first time that Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. In another interview withthe New York correspondent of the London Daily Telegraph on the future of electric automobiles and storage batteries. In 1910, he further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the 1910 book Little Journeys to the Homes of Great Men.  “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
-
-### Medicine
+## Medicine
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future03.jpeg right width=80%
 
 One of Edison’s most oft-quote speculations appeared in an interview with a reporter from the St. Louis Post-Dispatch published on January 1, 1903: “The doctor of the future will give no medicine, but will instruct his patient in the care of the human frame, in diet and cause and prevention of diseases.” In this interview Edison expressed his expectation of “great advances in surgery, in the study of bacteria, in the knowledge of the cause and prevention of disease.” And in an era when patent medicines were still common, he noted, “Every new discovery in bacteria shows us all the more convincingly that we have been wrong and that the million tons of stuff we have taken was all useless.”
 
-### Machines and Labor
+## Machines and Labor
 
 One of the great topics of Edison’s era, which remains a source of controversy today, is the role of machines in replacing labor.  His most detailed discussion of this subject appeared in one of several interviews conducted by journalist Edward Marshall. In 1926, Marshall published two interviews with Edison in The Forum.  The first of these bore the title “Machine-Made Freedom.” Edison believed that “Man will progress in intellectual things according to his release from the mere motor-tasks.” The value of replacing human with machine power, he argued, was illustrated by the history of slavery:  
 
@@ -229,7 +227,7 @@ Edison thought that electrical appliances would also liberate women from housewo
 
 Edison believed that electricity would fundamentally change the way we lived.  His prediction, reported in the November 14, 1914 issue of the Literary Journal in an article titled “Edison’s Prophecy: A Duplex, Sleepless, Dinnerless World,” sounds eerily prophetic: “In the old days man went up and down with the sun.  A million years from now we won’t go to bed at all.  Really, sleep is an absurdity, a bad habit.  We can’t suddenly throw off the thraldom of the habit, but we shall throw it off.” 
 
-### Cities
+## Cities
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg right width=80%
 
