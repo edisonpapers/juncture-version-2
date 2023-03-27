@@ -144,8 +144,6 @@ Between 1891 and 1892, the Nugget Library published a series of dime novels depi
 
 The first dime novel to feature a boy inventor was Edward S Ellis’s [The Steam Man of the Praries](https://edison.rutgers.edu/digital-exhibits/edison-science-fiction/science-fiction-07#page/1/mode/1up), published in 1868.
 
-.ve-iframe https://dimenovels.lib.niu.edu/islandora/object/dimenovels%3A21982#page/1/mode/1up
-
 ## The Tom Edison Jr. Stories
 
 Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the [Frank Reade Jr. series](https://library.si.edu/digital-library/book/frank-reade-weekly-magazine-containing-stories-adventures-land-sea-air), written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
@@ -239,9 +237,9 @@ Edison’s faith in science and technology to improve the human condition is app
 
 ## Communicating with the Dead
 
-Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating01.jpeg right width=80%
+
+Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
 
 Edison elaborated on this idea in a 1910 New York Times interview with Edward Marshall. This interview and its headline with headline“’No Immortality of the Soul’ Says Thomas A. Edison” stirred up an enormous controversy.  This is also the first time Edison proposed that it might be possible to scientifically prove (or disprove) spiritualist beliefs in the existence of consciousness beyond death.
 
@@ -258,8 +256,6 @@ If Edison did attempt to make such a device, it is clear that by time Marshall a
 No verifiable evidence has ever been found regarding Edison’s work on a device to communicate with the dead.  Nonetheless, the belief has persisted that Edison built such a device and some have even claimed to have knowledge of what the device looked like. The first description of such a device appeared in the October 1933 issue of Modern Mechanix:
 
 In a darkened room in his great laboratory, surrounded with beakers, generators, and other experimental equipment, Edison set up a photo-electric cell. A tiny pencil of light, coming from a powerful lamp, bored through the darkness and struck the active surface of this cell, where it was transformed instantly into a feeble electric current. Any object, no matter how thin, transparent or small, would cause a registration on the cell if it cut through the beam. This experiment, which the article describes as a failure, is likely related to Edison's experiments to find an unknown force he called "XYX." These experiments began in December 1885 and continued periodically into the 1920s.
-
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating01.jpeg right
 
 An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
 
