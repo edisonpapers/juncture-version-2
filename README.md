@@ -196,6 +196,8 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 ### [Read Edison's Conquest of Mars](https://www.gutenberg.org/files/19141/19141-h/19141-h.htm)
 
+.ve-iframe https://www.gutenberg.org/files/19141/19141-h/19141-h.htm
+
 ### Listen to Edison's Conquest of Mars
 
 .ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox height=50px left
