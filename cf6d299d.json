@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Edison's response",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/266137",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:357.718017578125,573.9052124023438,404.945068359375,235.9046630859375"
+      },
+      "id": "cf6d299d"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7542222d"
+  }
+]
