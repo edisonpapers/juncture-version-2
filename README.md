@@ -165,7 +165,7 @@ In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cg
 
 .ve-iframe https://hdl.handle.net/2027/uc1.aa0009972035?urlappend=%3Bui=embed width=50% 
 
-## Edison Conquers Mars
+## Edison Conquest of Mars
 
 This sequel was commissioned by Arthur Brisbane, editor of the New York Evening Journal and was written by George Serviss, an author and lecturer known for his work on astronomy. As a consequence of this commission, Serviss would publish a number of science fiction stories. At Brisbane’s urging, Serviss called on Edison in the hopes that he would agree to collaborate on the story. 
 
