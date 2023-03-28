@@ -194,9 +194,13 @@ The first installment of the story appeared on January 14, but Edison’s estran
 
 Edison expressed his own concerns about the story in a [January 14 telegram](https://edisondigital.rutgers.edu/document/D9802AAC) to Brisbane in which he objected to the announcement being “worded in such a way that it undoubtedly bring me in as a collaborator.” [Brisbane responded](https://edisondigital.rutgers.edu/document/D9802AAD#?c=&m=&s=&cv=&xywh=-413%2C-54%2C1624%2C1062) by sending Edison the first installment and detailing his understanding of how the story came to be written. He went on to ask Edison to explain “in what way the announcement says that you are a collaborator.” He concluded his letter by noting, “The Evening Journal presents you to its readers as the hero in an extremely clever fiction story—which seems to me to be perfectly legitimate and to which, Mr. Serviss tells me, you assented.  It presents you in no other light.” [Edison replied](https://edisondigital.rutgers.edu/document/LB059660#?c=&m=&s=&cv=&xywh=-681%2C-1%2C2210%2C1073) that “the picture of myself and Serviss would imply colaboration and that is the reason I objected.” Later news reports suggest that Edison tried to publicly distance himself from the story.
 
-### [Read Edison's Conquest of Mars](https://www.gutenberg.org/files/19141/19141-h/19141-h.htm)
+.ve-media https://edisondigital.rutgers.edu/iiif/D9802AAD left width=80%
 
-.ve-iframe https://www.gutenberg.org/files/19141/19141-h/19141-h.htm
+.ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
+
+https://edisondigital.rutgers.edu/document/D9802AAD#?c=&m=&s=&cv=&xywh=-167%2C-54%2C1133%2C1062
+
+### [Read Edison's Conquest of Mars](https://www.gutenberg.org/files/19141/19141-h/19141-h.htm)
 
 ### Listen to Edison's Conquest of Mars
 
