@@ -179,7 +179,7 @@ This sequel was commissioned by Arthur Brisbane, editor of the New York Evening 
 
 Edison declined because, as he later told Serviss, =="“I am not literary with a 200 Horsepower imagination like yourself. . . . don’t want a reputation for things I cant do.”"=={346,329,426,537} Edison did, however, agree to allow Serviss to make him the hero of the story in which he  develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
 
-## The First Installment
+## Reaction to the First Installment
 
 The first installment of the story appeared on January 14, but Edison’s estranged son, Thomas Alva Jr., saw an announcement of the story before it was published and told his stepmother, Mina, about it in a [January 10 letter](http://edisondigital.rutgers.edu/document/FC001ABF):
 
