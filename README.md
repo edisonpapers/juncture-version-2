@@ -198,8 +198,6 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 .ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
 
-https://edisondigital.rutgers.edu/document/D9802AAD#?c=&m=&s=&cv=&xywh=-167%2C-54%2C1133%2C1062
-
 ### [Read Edison's Conquest of Mars](https://www.gutenberg.org/files/19141/19141-h/19141-h.htm)
 
 ### Listen to Edison's Conquest of Mars
