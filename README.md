@@ -198,7 +198,6 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 .ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
 
-* * * * *
 ----- 
 ## Listen and Read
 
