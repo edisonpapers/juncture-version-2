@@ -155,7 +155,7 @@ The most famous of the juvenile Edisonades are the Tom Swift novels created by E
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=60%
 
-## Edison's Conquest of Mars
+## H.G. Wells's The War of the Worlds
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png left width=80%
 
