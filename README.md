@@ -186,7 +186,7 @@ The first installment of the story appeared on January 14, but Edison’s estran
 > I notice by the Journal that father has invented flying machines and etc. to attack Mars and a story is to appear this week entitled “Edison’s Conquest of Mars.” Very probably he is not aware that such an article is in existence but it is creating quite a stir over in the city…People come right in to my office and aske me if its is true and if I have any thing to do with it.
 > 
 
-.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/f0f5d2ca1cfc4726b9b8101f173b8d17/proxyhires? right width=60%
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/f0f5d2ca1cfc4726b9b8101f173b8d17/original.jpg? right width=60%
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars05.jpeg left width=60%
 
