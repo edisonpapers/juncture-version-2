@@ -200,9 +200,8 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 ## Listen and Read
 
-.ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox height=50px right
-
 #### Listen to Edison's Conquest of Mars
+.ve-iframe https://archive.org/embed/edisons_conquest_of_mars_0806_librivox height=50px
 
 **LINK**: [Project Gutenberg's Edison's Conquest of Mars, by Garrett Putman Serviss](https://www.gutenberg.org/files/19141/19141-h/19141-h.htm)
 
