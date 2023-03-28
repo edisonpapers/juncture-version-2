@@ -200,7 +200,6 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 
 -----
-
 ## Listen and Read
 
 #### Listen to Edison's Conquest of Mars
