@@ -171,9 +171,9 @@ This sequel was commissioned by Arthur Brisbane, editor of the New York Evening 
 
 Edison declined because, [as he later told Serviss](http://edisondigital.rutgers.edu/document/LB059657), “I am not literary with a 200 Horsepower imagination like yourself. . . . don’t want a reputation for things I cant do.” Edison did, however, agree to allow Serviss to make him the hero of the story in which he  develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars02.jpeg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars02.jpeg left width=60% caption="Arthur Brisbane"
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars03.png right width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars03.png right width=60% caption="Garrett P. Serviss"
 
 ## The First Installment
 
