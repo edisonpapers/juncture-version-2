@@ -1,6 +1,6 @@
 .ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Exhibit" pct:3,23,80,20 center sticky
 
-by the ==Thomas A. Edison Papers=={Q117427511} project team.
+by the ==Thomas A. Edison Papers=={Q107417971} project team.
 
 ## Introduction 
 
