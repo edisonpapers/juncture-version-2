@@ -211,6 +211,8 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 ## Edison's Speculations on the Future
 
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future01.jpeg right width=80%
+
 Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in [1878](https://www.jstor.org/stable/25110210) and [1888](https://www.jstor.org/stable/25110210).  His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.  The earliest were his interviews with George Parsons Lathrop discussed earlier in this exhibit.   
 
 ## Read Edison's Speculations
@@ -228,9 +230,12 @@ In the mid-1890s, Edison began speculating about the future of alternative energ
 
 He further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the Little Journeys to the Homes of Great Men.  [Little Journeys to the Homes of Great Men](https://archive.org/details/littlejourneysto19161hubb/page/339/mode/1up?view=theater) “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
 
+## Sun Motor
+
 .ve-media https://edisondigital.rutgers.edu/iiif/SC96071A1 left width=80%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future01.jpeg right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/SC96071A1 right width=80% seq=3
+
 
 
 ## Medicine
