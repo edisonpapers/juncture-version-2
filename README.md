@@ -215,9 +215,10 @@ Besides appearing in and influencing early science fiction, Edison’s own visio
 
 ## Read Edison's Speculations About the Phonograph
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA016 left width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA016 left caption="to be replaced with 1878 publication" width=80%
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA016 right caption="to be replaced with 1878 publication" width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA016 right width=80%
+
 
 
 ## Alternative Energy
