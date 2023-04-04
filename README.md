@@ -217,7 +217,7 @@ Besides appearing in and influencing early science fiction, Edison’s own visio
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA016 left caption="to be replaced with 1878 publication" width=80%
 
-.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb seq=339 right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA016 right width=80%
 
 ## Alternative Energy
 
@@ -234,6 +234,10 @@ In the mid-1890s, Edison began speculating about the future of alternative energ
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80% caption="Elbert Hubbard"
 
 He further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the Little Journeys to the Homes of Great Men.  [Little Journeys to the Homes of Great Men](https://archive.org/details/littlejourneysto19161hubb/page/339/mode/1up?view=theater) “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
+
+### Quote
+
+.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=339
 
 ## Medicine
 
@@ -288,3 +292,4 @@ In a darkened room in his great laboratory, surrounded with beakers, generators,
 An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
 
 A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show *[History Detectives](http://www.pbs.org/opb/historydetectives/video/1143720703/)*, which drew on research by the staff of the Edison Papers.
+
