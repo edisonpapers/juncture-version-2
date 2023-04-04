@@ -237,7 +237,7 @@ He further elaborated his views of future alternative energy sources in an inter
 
 ### Quote
 
-.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=376
+.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=376 width=60%
 
 ## Medicine
 
