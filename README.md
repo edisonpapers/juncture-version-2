@@ -217,7 +217,7 @@ Besides appearing in and influencing early science fiction, Edison’s own visio
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA016 left caption="to be replaced with 1878 publication" width=80%
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA016 right width=80%
+.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb seq=339 right width=80%
 
 ## Alternative Energy
 
