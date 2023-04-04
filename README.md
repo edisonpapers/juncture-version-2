@@ -230,7 +230,7 @@ In the mid-1890s, Edison began speculating about the future of alternative energ
 
 He further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the Little Journeys to the Homes of Great Men.  [Little Journeys to the Homes of Great Men](https://archive.org/details/littlejourneysto19161hubb/page/339/mode/1up?view=theater) “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
 
-## Sun Motor
+## Interview with Thomas Edison
 
 .ve-media https://edisondigital.rutgers.edu/iiif/SC96071A1 left width=80%
 
