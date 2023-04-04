@@ -236,8 +236,6 @@ He further elaborated his views of future alternative energy sources in an inter
 
 .ve-media https://edisondigital.rutgers.edu/iiif/SC96071A1 right width=80% seq=3
 
-
-
 ## Medicine
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future03.jpeg right width=80%
