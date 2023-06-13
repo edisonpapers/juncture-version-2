@@ -166,7 +166,7 @@ In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cg
 
 ## Read The War of the Worlds
 
-### ***ADD WAR OF THE WORLDS LINK FROM OMEKA WHEN UPLOADED***
+.ve-media https://iiif.archivelab.org/iiif/warofworlds1898well/manifest.json seq=4 width=60%
 
 ## Edison's Conquest of Mars
 
