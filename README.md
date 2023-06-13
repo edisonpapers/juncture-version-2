@@ -137,6 +137,8 @@ Other ideas incorporated from Edison’s notes include the use of vaccinations, 
 
 After exploring the future and its many new technologies, Bemis nonetheless was led to conclude: “With all the improvements in machinery, inventions and modes of life, human nature, also, has somewhat improved; but not radically altered. Its passions good and bad remain much the same, together with its weakness, fickleness and treachery.”
 
+### ***ADD IN THE DEEP OF TIME IIIF LINK FROM OMEKA WHEN UPLOADED***
+
 ## Edisonades
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=60%
