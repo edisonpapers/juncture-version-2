@@ -52,8 +52,7 @@ Villiers describes the transformation of Edison from man to myth In the [preface
 
 Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t66401k8k&view=1up&seq=1), describes a futuristic society in the year 2000 to which the main character, Julian West, travels from the year 1887. He does this via [suspended animation](http://www.sf-encyclopedia.com/entry/suspended_animation), the major mode of time travel in in early science fiction writings. In the book, West awakes in an America transformed by a non-violent revolution that abolished private property in favor of state ownership, thus eliminating social classes and social ills such as war, poverty, crime, and labor strife.
 
-*Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentari
-es, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
+*Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
 ## Read *Looking Backward*
 
