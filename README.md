@@ -240,3 +240,21 @@ He further elaborated his views of future alternative energy sources in an inter
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future03.jpeg right width=80%
 
 One of Edison’s most oft-quote speculations appeared in an interview with a reporter from the St. Louis Post-Dispatch published on January 1, 1903: “The doctor of the future will give no medicine, but will instruct his patient in the care of the human frame, in diet and cause and prevention of diseases.” In this interview Edison expressed his expectation of “great advances in surgery, in the study of bacteria, in the knowledge of the cause and prevention of disease.” And in an era when patent medicines were still common, he noted, “Every new discovery in bacteria shows us all the more convincingly that we have been wrong and that the million tons of stuff we have taken was all useless.”
+
+## Machines and Labor
+
+One of the great topics of Edison’s era, which remains a source of controversy today, is the role of machines in replacing labor.  His most detailed discussion of this subject appeared in one of several interviews conducted by journalist Edward Marshall. In 1926, Marshall published two interviews with Edison in The Forum.  The first of these bore the title “[Machine-Made Freedom](https://www.unz.com/print/Forum-1926oct-00492/).” Edison believed that “Man will progress in intellectual things according to his release from the mere motor-tasks.” The value of replacing human with machine power, he argued, was illustrated by the history of slavery:  
+
+While slave labor was available, the brains of men in general were not stimulated to the creation of machinery. This was more disastrous in its general effects than was realized by the majority, even of those opposed to slavery. It meant that human beings all along the line, not only the enslaved but the enslavers, could not be released by machinery for efforts better and more elevating than those to which they had been habituated in the past. Progress of mind became impossible.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=80%
+
+That is the reason why I call machinery the greatest of emancipators. I will go farther and say that human slavery will not have been fully abolished until every task now accomplished by human hands is turned out by some machine, if it can be done as well or better by a machine.
+
+Edison thought that electrical appliances would also liberate women from housework, a subject he had addressed in a 1912 interview with Marshall that appeared in Good Housekeeping under the title “[The Woman of the Future.](https://babel.hathitrust.org/cgi/pt?id=mdp.39015024014303&view=1up&seq=456)”
+
+“The housewife of the future will be neither a slave to servants nor herself a drudge. She will give less attention to the home, because the home will need less; she will be rather a domestic engineer than a domestic laborer, with the greatest of all handmaidens, electricity, at her service. This and other mechanical forces will so revolutionize the woman’s world that a large portion of the aggregate of woman’s energy will be conserved for use in broader, more constructive fields.”
+
+Edison believed that electricity would fundamentally change the way we lived.  His prediction, reported in the November 14, 1914 issue of the Literary Journal in an article titled “[Edison’s Prophecy: A Duplex, Sleepless, Dinnerless World](https://babel.hathitrust.org/cgi/pt?id=mdp.39015031442240&view=1up&seq=1176),” sounds eerily prophetic: “In the old days man went up and down with the sun.  A million years from now we won’t go to bed at all.  Really, sleep is an absurdity, a bad habit.  We can’t suddenly throw off the thraldom of the habit, but we shall throw it off.” 
+
+## Cities
