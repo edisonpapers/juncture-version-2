@@ -218,3 +218,11 @@ Besides appearing in and influencing early science fiction, Edison’s own visio
 ## Alternative Energy
 
 In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. In a November 1896 interview Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. And in an with the New York correspondent of the [London Daily Telegraph](https://www.theguardian.com/science/2016/nov/25/electicity-thomas-edison-renewable-energy-interview-1896) on the future of electric automobiles and storage batteries.
+
+## Interview with Thomas Edison
+
+.ve-media https://edisondigital.rutgers.edu/iiif/SC96071A1 left width=80%
+
+.ve-media https://edisondigital.rutgers.edu/iiif/SC96071A1 right width=80% seq=3
+
+## Elbert Hubbard
