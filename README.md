@@ -217,7 +217,7 @@ Besides appearing in and influencing early science fiction, Edison’s own visio
 
 ## Read Edison's Speculations About the Phonograph
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA016 left width=80% caption="To be replaced with PA122 when added"
+.ve-media https://edisondigital.rutgers.edu/iiif/PA122 left width=80%
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA016 right width=80%
 
