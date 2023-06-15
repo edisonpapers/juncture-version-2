@@ -258,3 +258,37 @@ Edison thought that electrical appliances would also liberate women from housewo
 Edison believed that electricity would fundamentally change the way we lived.  His prediction, reported in the November 14, 1914 issue of the Literary Journal in an article titled “[Edison’s Prophecy: A Duplex, Sleepless, Dinnerless World](https://babel.hathitrust.org/cgi/pt?id=mdp.39015031442240&view=1up&seq=1176),” sounds eerily prophetic: “In the old days man went up and down with the sun.  A million years from now we won’t go to bed at all.  Really, sleep is an absurdity, a bad habit.  We can’t suddenly throw off the thraldom of the habit, but we shall throw it off.” 
 
 ## Cities
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg right width=80%
+
+Edison’s faith in science and technology to improve the human condition is apparent in another 1926 interview with Edward Marshall titled “[The Scientific City of the Future](https://www.unz.com/print/Forum-1926dec-00823).” In this interview Edison focuses on the same problem that would be the subject of [General Motors Futurama](https://blog.mcny.org/2013/11/26/i-have-seen-the-future-norman-bel-geddes-and-the-general-motors-futurama/) exhibit designed by Norman Bel Geddes for the 1939 New York World’s Fair—automobile congestion.  Edison thought that this problem could be solved by mathematicians and traffic engineering combined with the use of buses on streets and helicopters flying between skyscrapers. The city would be run by scientifically trained managers instead of politicians who would also ensure that the police were scientifically trained and managed.  However, because Edison thought that his own deafness was an advantage. he dismissed concerns about noise pollution and suggested that “city dweller of the future… will be sufficiently deafened by Nature so that the noisest places will not be disagreeable to him.”
+
+## Communicating with the Dead
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating01.jpeg right width=80%
+
+Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
+
+Edison elaborated on this idea in a 1910 [New York Times interview](https://edisondigital.rutgers.edu/document/D1027AAA1#?c=&m=&s=&cv=&xywh=-1019%2C-1%2C3445%2C1672) with Edward Marshall. This interview and its headline with headline “’No Immortality of the Soul’ Says Thomas A. Edison” stirred up an enormous controversy. This is also the first time Edison proposed that it might be possible to scientifically prove (or disprove) spiritualist beliefs in the existence of consciousness beyond death.
+
+A decade later, in interviews that appeared in [Scientific American](https://idigitalmedium.com/wp-content/uploads/2016/11/1920-EDISON-INTERVIEW.pdf)  and [The American Magazine](https://babel.hathitrust.org/cgi/pt?id=coo.31924065598983&view=1up&seq=730), he claimed to be working on an apparatus that could be used by psychic investigators to try to communicate with the dead.
+
+“I am not promising communication with those who have passed out of this life. I merely state that I am giving the psychic investigators an apparatus which may help them ln their work, just as optical experts have given the microscope to the medical world. And if this apparatus falls to reveal anything of exceptional interest, I am afraid that I shall have lost all faith in the survival of personality as we know it in this existence.”
+
+If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of The Forum. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating02.jpeg left width=80%
+
+“There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
+
+No verifiable evidence has ever been found regarding Edison’s work on a device to communicate with the dead.  Nonetheless, the belief has persisted that Edison built such a device and some have even claimed to have knowledge of what the device looked like. The first description of such a device appeared in the October 1933 issue of Modern Mechanix:
+
+In a darkened room in his great laboratory, surrounded with beakers, generators, and other experimental equipment, Edison set up a photo-electric cell. A tiny pencil of light, coming from a powerful lamp, bored through the darkness and struck the active surface of this cell, where it was transformed instantly into a feeble electric current. Any object, no matter how thin, transparent or small, would cause a registration on the cell if it cut through the beam. This experiment, which the article describes as a failure, is likely related to Edison's experiments to find an unknown force he called "XYX." These experiments began in [December 1885](https://edisondigital.rutgers.edu/folder/N313-F) and continued periodically into the 1920s.
+
+An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
+
+A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show *[History Detectives](http://www.pbs.org/opb/historydetectives/video/1143720703/)*, which drew on research by the staff of the Edison Papers.
+
+.ve-media https://iiif.archivelab.org/iiif/sim_forum-and-century_1926-10_76_4/manifest.json seq=16 width=60%
+
+.ve-media https://iiif.archivelab.org/iiif/goodhousekeeping0055unse_j3v8/manifest.json seq=441 width=60%
