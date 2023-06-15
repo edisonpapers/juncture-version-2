@@ -164,3 +164,11 @@ In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cg
 ## Read The War of the Worlds
 
 .ve-media https://iiif.archivelab.org/iiif/warofworlds1898well/manifest.json seq=8 width=40%
+
+## Edison's Conquest of Mars
+
+This sequel was commissioned by Arthur Brisbane, editor of the New York Evening Journal and was written by George Serviss, an author and lecturer known for his work on astronomy. As a consequence of this commission, Serviss would publish a number of science fiction stories. At Brisbane’s urging, Serviss called on Edison in the hopes that he would agree to collaborate on the story. Edison declined to collaborate but agreed to allow Serviss to make him the hero of the story in which he develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
+
+.ve-media wc:Arthur_Brisbane,_head-and-shoulders_portrait,_facing_slightly_left,_right_hand_under_jaw_LCCN95500970_(cropped).jpg left width=60% caption="Arthur Brisbane"
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars03.png right width=60% caption="Garrett P. Serviss"
