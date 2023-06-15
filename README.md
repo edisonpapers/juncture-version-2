@@ -114,3 +114,53 @@ By August 10th of 1891, Lathrop had ran out of patience and poured out his frust
 Lathrop’s letter went unanswered, prompting him to write again on [August 18](https://edisondigital.rutgers.edu/document/D9102ACS): “I do not understand on what principle you can reconcile to so being one in the bunch, after promising your cooperation; nor why you should ignore my communications.” Perhaps prompted by  this letter, Tate finally sent Lathrop’s earlier letter to Edison. Edison finally read Latrhop’s letter and [at the end of August](https://edisondigital.rutgers.edu/document/LB052052) Tate sent Edison’s notes back to the writer telling him that Edison had been spending all his time at the ore milling works “in order to get things in proper shape.”
 
 Lathrop continued in his efforts to arrange a meeting with Edison but the inventor’s other projects kept him away from the laboratory. Although Edison subsequently provided Lathrop with another thirty pages at the end of January 1892, Lathrop again failed in his efforts to meet with Edison to discuss the story.  However, Lathrop did not give up and, at the end of 1896, he finally succeeded in publishing a version titled “In the Deep of Time.”
+
+## In the Deep of Time
+
+After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg left width=60%
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg right width=60%  
+
+The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
+
+“In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg right width=80%
+
+After waking up in the 22nd century, Bemis experiences a drastically new world with unfamiliar people and futuristic technologies such as electric trains and carriages, mail carriers that fly through the air, and an “anti-gravitational machine or the interstellar express car.” The latter device enabled travel to Mars while an interplanetary telegraph system utilizing the large iron deposits found in the Penokee mountains enabled communication with the planet.
+
+Other ideas incorporated from Edison’s notes include the use of vaccinations, food made from wood fibers, and even a Darwinian Society breeding apes to make them more intelligent. The story also includes technologies such as motion pictures and a variety of artificial materials used to replicate expensive items such leather, gold, and silk that Edison had actively worked to develop.
+
+After exploring the future and its many new technologies, Bemis nonetheless was led to conclude: “With all the improvements in machinery, inventions and modes of life, human nature, also, has somewhat improved; but not radically altered. Its passions good and bad remain much the same, together with its weakness, fickleness and treachery.”
+
+### ***ADD IN THE DEEP OF TIME IIIF LINK FROM OMEKA WHEN UPLOADED***
+
+## Edisonades
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades01.jpeg right width=60%
+
+Between 1891 and 1892, the Nugget Library published a series of dime novels depicting the adventures of Tom Edison, Jr.  Although the protaganist is an orphan unrelated to Thomas Edison, both his name and his inventiveness connect him to the inventor.  So too does the name “[Edisonades](https://www.sf-encyclopedia.com/entry/edisonade)” given by scholars to this genre of dime novels. Drawing  on the mythology surrounding Thomas Edison, it designates dime novels in which a young male protagonist uses his inventions to save innocents from a threatening power. 
+
+The first dime novel to feature a boy inventor was Edward S Ellis’s [The Steam Man of the Praries](https://edison.rutgers.edu/digital-exhibits/edison-science-fiction/science-fiction-07#page/1/mode/1up), published in 1868.
+
+## The Tom Edison Jr. Stories
+
+Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the [Frank Reade Jr. series](https://library.si.edu/digital-library/book/frank-reade-weekly-magazine-containing-stories-adventures-land-sea-air), written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades03.jpeg right width=60%
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-edisonades02.jpeg left width=60%
+
+The most famous of the juvenile Edisonades are the Tom Swift novels created by Edward Stratemeyer under the pseudonym Victor Appelton.  These well-known stories depict a teenage boy inventor-hero who devices an amazing variety of inventions he uses to explore the world and save the day. The Tom Swift books have been published in a number of series up until the present day, making him a particularly long-lived fictional character linked to Thomas Edison.
+
+## H.G. Wells's The War of the Worlds
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png left width=80%
+
+In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cgi/pt?id=uc1.31175033855811&view=1up&seq=1)* was serialized in the British journal *[Pearson’s Magazine](https://babel.hathitrust.org/cgi/pt?id=iau.31858046223834&view=1up&seq=369)* and in the American magazine *[Cosmopolitan](https://babel.hathitrust.org/cgi/pt?id=uc1.aa0009972035&view=1up&seq=625)* before it was published as a book. This popular serialized story soon appeared in unauthorized and heavily revised versions in several American newspapers using alternative titles, such as “Fighters from Mars” in the New York Evening Journal and “The War of the Worlds in and Near Boston” in the *Boston Post*. These unauthorized serializations, made possible by the very lax U.S. copyright laws, inspired the publication of an unauthorized sequel titled “Edison’s Conquest of Mars.”
+
+## Read The War of the Worlds
+
+.ve-media https://iiif.archivelab.org/iiif/warofworlds1898well/manifest.json seq=8 width=40%
