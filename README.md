@@ -215,6 +215,10 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in 1878 and 1888. His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.
 
+.ve-media https://edisondigital.rutgers.edu/iiif/D9802AAD left width=80%
+
+.ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
+
 ## Alternative Energy
 
 In the mid-1890s, Edison began speculating about the future of alternative energy sources. These speculations were spurred by growing concern over the long-term supply of coal. In a November 1896 interview Edison speculated on alternative energy sources, promoting the development of solar power technology such as John Ericsson’s sun engine. And in an with the New York correspondent of the [London Daily Telegraph](https://www.theguardian.com/science/2016/nov/25/electicity-thomas-edison-renewable-energy-interview-1896) on the future of electric automobiles and storage batteries.
