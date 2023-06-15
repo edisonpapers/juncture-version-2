@@ -107,4 +107,10 @@ By August 10th of 1891, Lathrop had ran out of patience and poured out his frust
 
 “I will ask you to try to realize what it is to me to be forced to hang around like a dog waiting for a bone — and not even getting the bone. I have never been placed in such a position before; never would have allowed myself to be placed in it, this time, if I could have forseen what was coming and shall take exceedingly good care never to be led into a similar predicament again.”
 
+## The Collaboration Fails
 
+.ve-media https://edisondigital.rutgers.edu/iiif/D9102ACS left width=80%
+
+Lathrop’s letter went unanswered, prompting him to write again on [August 18](https://edisondigital.rutgers.edu/document/D9102ACS): “I do not understand on what principle you can reconcile to so being one in the bunch, after promising your cooperation; nor why you should ignore my communications.” Perhaps prompted by  this letter, Tate finally sent Lathrop’s earlier letter to Edison. Edison finally read Latrhop’s letter and [at the end of August](https://edisondigital.rutgers.edu/document/LB052052) Tate sent Edison’s notes back to the writer telling him that Edison had been spending all his time at the ore milling works “in order to get things in proper shape.”
+
+Lathrop continued in his efforts to arrange a meeting with Edison but the inventor’s other projects kept him away from the laboratory. Although Edison subsequently provided Lathrop with another thirty pages at the end of January 1892, Lathrop again failed in his efforts to meet with Edison to discuss the story.  However, Lathrop did not give up and, at the end of 1896, he finally succeeded in publishing a version titled “In the Deep of Time.”
