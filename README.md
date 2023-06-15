@@ -215,6 +215,8 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 
 Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in 1878 and 1888. His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.
 
+## Read Edison's Speculations About the Phonograph
+
 .ve-media https://edisondigital.rutgers.edu/iiif/PA016 left width=80% caption="To be replaced with PA122 when added"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA016 right width=80%
