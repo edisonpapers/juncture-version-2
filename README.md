@@ -172,3 +172,20 @@ This sequel was commissioned by Arthur Brisbane, editor of the New York Evening 
 .ve-media wc:Arthur_Brisbane,_head-and-shoulders_portrait,_facing_slightly_left,_right_hand_under_jaw_LCCN95500970_(cropped).jpg left width=60% caption="Arthur Brisbane"
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars03.png right width=60% caption="Garrett P. Serviss"
+
+## Edison Declines
+
+.ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
+
+Edison declined because, as he later told Serviss, =="“I am not literary with a 200 Horsepower imagination like yourself. . . . don’t want a reputation for things I cant do.”"=={346,329,426,537} Edison did, however, agree to allow Serviss to make him the hero of the story in which he  develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
+
+## Reaction to the First Installment
+
+The first installment of the story appeared on January 14, but Edison’s estranged son, Thomas Alva Edison, Jr., saw an announcement of the story before it was published and told his stepmother, Mina, about it in a [January 10 letter](http://edisondigital.rutgers.edu/document/FC001ABF):
+
+> "I notice by the Journal that father has invented flying machines and etc. to attack Mars and a story is to appear this week entitled “Edison’s Conquest of Mars.” Very probably he is not aware that such an article is in existence but it is creating quite a stir over in the city…People come right in to my office and aske me if its is true and if I have any thing to do with it."
+> 
+
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/f0f5d2ca1cfc4726b9b8101f173b8d17/original.jpg right width=60% caption="Thomas Alva Edison, Jr."
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars05.jpeg left width=60%
