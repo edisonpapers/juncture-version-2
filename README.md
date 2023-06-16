@@ -304,6 +304,10 @@ A decade later, in interviews that appeared in [Scientific American](https://idi
 
 “I am not promising communication with those who have passed out of this life. I merely state that I am giving the psychic investigators an apparatus which may help them ln their work, just as optical experts have given the microscope to the medical world. And if this apparatus falls to reveal anything of exceptional interest, I am afraid that I shall have lost all faith in the survival of personality as we know it in this existence.”
 
+.ve-media https://edisondigital.rutgers.edu/iiif/PA105 left width=60%
+
+.ve-media https://edisondigital.rutgers.edu/iiif/PA108 right width=60%
+
 If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
 
 “There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
