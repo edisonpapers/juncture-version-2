@@ -310,7 +310,7 @@ A decade later, in interviews that appeared in [Scientific American](https://idi
 
 ## Has Man an Immortal Soul
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA108 right width=60%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA106 right width=60%
 
 If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
 
