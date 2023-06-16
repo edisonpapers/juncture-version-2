@@ -251,7 +251,7 @@ He further elaborated his views of future alternative energy sources in an inter
 
 ## Medicine
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future03.jpeg right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA123 right width=80%
 
 One of Edison’s most oft-quote speculations appeared in an interview with a reporter from the St. Louis Post-Dispatch published on January 1, 1903: “The doctor of the future will give no medicine, but will instruct his patient in the care of the human frame, in diet and cause and prevention of diseases.” In this interview Edison expressed his expectation of “great advances in surgery, in the study of bacteria, in the knowledge of the cause and prevention of disease.” And in an era when patent medicines were still common, he noted, “Every new discovery in bacteria shows us all the more convincingly that we have been wrong and that the million tons of stuff we have taken was all useless.”
 
