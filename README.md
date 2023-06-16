@@ -136,6 +136,8 @@ Other ideas incorporated from Edison’s notes include the use of vaccinations, 
 
 After exploring the future and its many new technologies, Bemis nonetheless was led to conclude: “With all the improvements in machinery, inventions and modes of life, human nature, also, has somewhat improved; but not radically altered. Its passions good and bad remain much the same, together with its weakness, fickleness and treachery.”
 
+## Read In the Deep of Time
+
 .ve-media https://edisondigital.rutgers.edu/iiif/PA109 width=60%
 
 ## Edisonades
@@ -150,7 +152,7 @@ The first dime novel to feature a boy inventor was Edward S Ellis’s The Steam 
 
 Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the [Frank Reade Jr. series](https://library.si.edu/digital-library/book/frank-reade-weekly-magazine-containing-stories-adventures-land-sea-air), written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
 
-## Tom Edison Jr.
+## Read the Tom Edison Jr. Stories
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA501 width=60% left
 
