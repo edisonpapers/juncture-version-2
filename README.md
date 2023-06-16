@@ -316,7 +316,7 @@ If Edison did attempt to make such a device, it is clear that by time Marshall a
 
 “There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
 
-## Heading 
+## Dubious Claims for Edison's Machines to Communicate with the Dead 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA500 left width=60%
 
