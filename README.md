@@ -277,6 +277,8 @@ Edison thought that electrical appliances would also liberate women from housewo
 
 ## Edison's Prediction
 
+.ve-media https://edisondigital.rutgers.edu/iiif/PA124 right width=60%
+
 Edison believed that electricity would fundamentally change the way we lived.  His prediction, reported in the November 14, 1914 issue of the *Literary Journal* in an article titled “Edison’s Prophecy: A Duplex, Sleepless, Dinnerless World,” sounds eerily prophetic: “In the old days man went up and down with the sun.  A million years from now we won’t go to bed at all.  Really, sleep is an absurdity, a bad habit.  We can’t suddenly throw off the thraldom of the habit, but we shall throw it off.” 
 
 ## Cities
