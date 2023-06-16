@@ -287,7 +287,7 @@ Edison’s faith in science and technology to improve the human condition is app
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg left width=60%
 
-.ve-media ve-media https://edisondigital.rutgers.edu/iiif/PA117 right width=60%
+.ve-media ve-media https://edisondigital.rutgers.edu/iiif/PA117 right width=50%
 
 
 ## Communicating with the Dead
