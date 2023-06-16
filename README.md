@@ -296,7 +296,7 @@ Edison’s faith in science and technology to improve the human condition is app
 
 Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
 
-Edison elaborated on this idea in a 1910 [New York Times interview](https://edisondigital.rutgers.edu/document/D1027AAA1#?c=&m=&s=&cv=&xywh=-1019%2C-1%2C3445%2C1672) with Edward Marshall. This interview and its headline with headline “’No Immortality of the Soul’ Says Thomas A. Edison” stirred up an enormous controversy. This is also the first time Edison proposed that it might be possible to scientifically prove (or disprove) spiritualist beliefs in the existence of consciousness beyond death.
+Edison elaborated on this idea in a 1910 New York Times interview with Edward Marshall. This interview and its headline with headline “’No Immortality of the Soul’ Says Thomas A. Edison” stirred up an enormous controversy. This is also the first time Edison proposed that it might be possible to scientifically prove (or disprove) spiritualist beliefs in the existence of consciousness beyond death.
 
 A decade later, in interviews that appeared in [Scientific American](https://idigitalmedium.com/wp-content/uploads/2016/11/1920-EDISON-INTERVIEW.pdf)  and [The American Magazine](https://babel.hathitrust.org/cgi/pt?id=coo.31924065598983&view=1up&seq=730), he claimed to be working on an apparatus that could be used by psychic investigators to try to communicate with the dead.
 
