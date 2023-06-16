@@ -128,7 +128,7 @@ The technologies depicted in the story were mainly derived from the extant set o
 
 “In the Deep of Time” chronicles the experiences of Gerald Bemis, who was chosen by a secret “Society of Futurity” to be “vivifcated” (put in suspended animation) for 300 years, an idea described in Edison’s notes. 
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time03.jpeg right caption="'In the Deep of Time' flying machine" width=80%
 
 After waking up in the 22nd century, Bemis experiences a drastically new world with unfamiliar people and futuristic technologies such as electric trains and carriages, mail carriers that fly through the air, and an “anti-gravitational machine or the interstellar express car.” The latter device enabled travel to Mars while an interplanetary telegraph system utilizing the large iron deposits found in the Penokee mountains enabled communication with the planet.
 
