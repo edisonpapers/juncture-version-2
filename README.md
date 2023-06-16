@@ -292,7 +292,7 @@ Edison’s faith in science and technology to improve the human condition is app
 
 ## Communicating with the Dead
 
-.ve-media ve-media https://edisondigital.rutgers.edu/iiif/PA101 right width=60%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA101 right width=60%
 
 Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
 
