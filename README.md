@@ -283,13 +283,13 @@ Edison believed that electricity would fundamentally change the way we lived.  H
 
 ## Cities
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg right width=60%
 
 Edison’s faith in science and technology to improve the human condition is apparent in another 1926 interview with Edward Marshall titled “[The Scientific City of the Future](https://www.unz.com/print/Forum-1926dec-00823).” In this interview Edison focuses on the same problem that would be the subject of [General Motors Futurama](https://blog.mcny.org/2013/11/26/i-have-seen-the-future-norman-bel-geddes-and-the-general-motors-futurama/) exhibit designed by Norman Bel Geddes for the 1939 New York World’s Fair—automobile congestion.  Edison thought that this problem could be solved by mathematicians and traffic engineering combined with the use of buses on streets and helicopters flying between skyscrapers. The city would be run by scientifically trained managers instead of politicians who would also ensure that the police were scientifically trained and managed.  However, because Edison thought that his own deafness was an advantage. he dismissed concerns about noise pollution and suggested that “city dweller of the future… will be sufficiently deafened by Nature so that the noisest places will not be disagreeable to him.”
 
 ## Communicating with the Dead
 
-.ve-media ve-media https://edisondigital.rutgers.edu/iiif/PA101 right width=80%
+.ve-media ve-media https://edisondigital.rutgers.edu/iiif/PA101 right width=60%
 
 Among Edison’s most controversial interviews were those related to his belief that that consciousness existed in fundamental units that combined to make up each human being and that these existed prior to and after death.  He first discussed this idea in his interviews with Lathrop and was doubtless among the imaginative ideas that led Lathrop to collaborate with Edison on their novel of the future.
 
@@ -301,7 +301,7 @@ A decade later, in interviews that appeared in [Scientific American](https://idi
 
 If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating02.jpeg left width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-communicating02.jpeg left width=60%
 
 “There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
 
