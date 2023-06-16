@@ -304,9 +304,9 @@ A decade later, in interviews that appeared in [Scientific American](https://idi
 
 If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA500 left width=60%
-
 “There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
+
+.ve-media https://edisondigital.rutgers.edu/iiif/PA500 left width=60%
 
 No verifiable evidence has ever been found regarding Edison’s work on a device to communicate with the dead.  Nonetheless, the belief has persisted that Edison built such a device and some have even claimed to have knowledge of what the device looked like. The first description of such a device appeared in the October 1933 issue of *Modern Mechanix*:
 
