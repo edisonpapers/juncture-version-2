@@ -259,13 +259,19 @@ One of Edison’s most oft-quote speculations appeared in an interview with a re
 
 One of the great topics of Edison’s era, which remains a source of controversy today, is the role of machines in replacing labor.  His most detailed discussion of this subject appeared in one of several interviews conducted by journalist Edward Marshall. In 1926, Marshall published two interviews with Edison in The Forum.  The first of these bore the title “[Machine-Made Freedom](https://www.unz.com/print/Forum-1926oct-00492/).” Edison believed that “Man will progress in intellectual things according to his release from the mere motor-tasks.” The value of replacing human with machine power, he argued, was illustrated by the history of slavery:  
 
-While slave labor was available, the brains of men in general were not stimulated to the creation of machinery. This was more disastrous in its general effects than was realized by the majority, even of those opposed to slavery. It meant that human beings all along the line, not only the enslaved but the enslavers, could not be released by machinery for efforts better and more elevating than those to which they had been habituated in the past. Progress of mind became impossible.
+.ve-media https://edisondigital.rutgers.edu/iiif/PA114 right width=80%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=80%
+While slave labor was available, the brains of men in general were not stimulated to the creation of machinery. This was more disastrous in its general effects than was realized by the majority, even of those opposed to slavery. It meant that human beings all along the line, not only the enslaved but the enslavers, could not be released by machinery for efforts better and more elevating than those to which they had been habituated in the past. Progress of mind became impossible.
 
 That is the reason why I call machinery the greatest of emancipators. I will go farther and say that human slavery will not have been fully abolished until every task now accomplished by human hands is turned out by some machine, if it can be done as well or better by a machine.
 
+## Woman of the Future
+
 Edison thought that electrical appliances would also liberate women from housework, a subject he had addressed in a 1912 interview with Marshall that appeared in *Good Housekeeping* under the title “[The Woman of the Future.](https://babel.hathitrust.org/cgi/pt?id=mdp.39015024014303&view=1up&seq=456)”
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=60%
+
+.ve-media https://edisondigital.rutgers.edu/iiif/PA123 right width=60%
 
 “The housewife of the future will be neither a slave to servants nor herself a drudge. She will give less attention to the home, because the home will need less; she will be rather a domestic engineer than a domestic laborer, with the greatest of all handmaidens, electricity, at her service. This and other mechanical forces will so revolutionize the woman’s world that a large portion of the aggregate of woman’s energy will be conserved for use in broader, more constructive fields.”
 
