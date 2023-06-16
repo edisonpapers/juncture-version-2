@@ -259,7 +259,7 @@ One of Edison’s most oft-quote speculations appeared in an interview with a re
 
 One of the great topics of Edison’s era, which remains a source of controversy today, is the role of machines in replacing labor.  His most detailed discussion of this subject appeared in one of several interviews conducted by journalist Edward Marshall. In 1926, Marshall published two interviews with Edison in The Forum.  The first of these bore the title “[Machine-Made Freedom](https://www.unz.com/print/Forum-1926oct-00492/).” Edison believed that “Man will progress in intellectual things according to his release from the mere motor-tasks.” The value of replacing human with machine power, he argued, was illustrated by the history of slavery:  
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA114 right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/PA114 right width=60%
 
 While slave labor was available, the brains of men in general were not stimulated to the creation of machinery. This was more disastrous in its general effects than was realized by the majority, even of those opposed to slavery. It meant that human beings all along the line, not only the enslaved but the enslavers, could not be released by machinery for efforts better and more elevating than those to which they had been habituated in the past. Progress of mind became impossible.
 
