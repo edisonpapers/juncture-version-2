@@ -308,15 +308,7 @@ A decade later, in interviews that appeared in [Scientific American](https://idi
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA108 right width=60%
 
-## Has Man an Immortal Soul
-
-.ve-media https://edisondigital.rutgers.edu/iiif/PA106 right width=60%
-
-If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
-
-“There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
-
-## Dubious Claims for Edison's Machines to Communicate with the Dead 
+## Dubious Claims for the Machine
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA500 left width=60%
 
@@ -327,6 +319,16 @@ In a darkened room in his great laboratory, surrounded with beakers, generators,
 An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
 
 A third device known as the psychophone was also attributed to Edison.  However, this was debunked on an episode of the PBS show *[History Detectives](http://www.pbs.org/opb/historydetectives/video/1143720703/)*, which drew on research by the staff of the Edison Papers.
+
+## Has Man an Immortal Soul
+
+.ve-media https://edisondigital.rutgers.edu/iiif/PA106 right width=60%
+
+If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
+
+“There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
+
+## MORE
 
 .ve-media https://iiif.archivelab.org/iiif/sim_forum-and-century_1926-10_76_4/manifest.json seq=16 width=60%
 
