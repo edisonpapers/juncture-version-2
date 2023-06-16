@@ -327,9 +327,3 @@ A third device known as the psychophone was also attributed to Edison.  However,
 If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “[Has Man an Immortal Soul](https://www.unz.com/print/Forum-1926nov-00641/)” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
 
 “There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought m this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
-
-## MORE
-
-.ve-media https://iiif.archivelab.org/iiif/sim_forum-and-century_1926-10_76_4/manifest.json seq=16 width=60%
-
-.ve-media https://iiif.archivelab.org/iiif/goodhousekeeping0055unse_j3v8/manifest.json seq=441 width=60%
