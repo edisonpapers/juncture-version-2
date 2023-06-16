@@ -271,10 +271,11 @@ Edison thought that electrical appliances would also liberate women from housewo
 
 “The housewife of the future will be neither a slave to servants nor herself a drudge. She will give less attention to the home, because the home will need less; she will be rather a domestic engineer than a domestic laborer, with the greatest of all handmaidens, electricity, at her service. This and other mechanical forces will so revolutionize the woman’s world that a large portion of the aggregate of woman’s energy will be conserved for use in broader, more constructive fields.”
 
-
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=60%
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA119 right width=60%
+
+## Edison's Prediction
 
 Edison believed that electricity would fundamentally change the way we lived.  His prediction, reported in the November 14, 1914 issue of the *Literary Journal* in an article titled “[Edison’s Prophecy: A Duplex, Sleepless, Dinnerless World](https://babel.hathitrust.org/cgi/pt?id=mdp.39015031442240&view=1up&seq=1176),” sounds eerily prophetic: “In the old days man went up and down with the sun.  A million years from now we won’t go to bed at all.  Really, sleep is an absurdity, a bad habit.  We can’t suddenly throw off the thraldom of the habit, but we shall throw it off.” 
 
