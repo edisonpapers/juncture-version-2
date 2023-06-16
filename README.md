@@ -283,9 +283,12 @@ Edison believed that electricity would fundamentally change the way we lived.  H
 
 ## Cities
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg right width=60%
-
 Edison’s faith in science and technology to improve the human condition is apparent in another 1926 interview with Edward Marshall titled “[The Scientific City of the Future](https://www.unz.com/print/Forum-1926dec-00823).” In this interview Edison focuses on the same problem that would be the subject of [General Motors Futurama](https://blog.mcny.org/2013/11/26/i-have-seen-the-future-norman-bel-geddes-and-the-general-motors-futurama/) exhibit designed by Norman Bel Geddes for the 1939 New York World’s Fair—automobile congestion.  Edison thought that this problem could be solved by mathematicians and traffic engineering combined with the use of buses on streets and helicopters flying between skyscrapers. The city would be run by scientifically trained managers instead of politicians who would also ensure that the police were scientifically trained and managed.  However, because Edison thought that his own deafness was an advantage. he dismissed concerns about noise pollution and suggested that “city dweller of the future… will be sufficiently deafened by Nature so that the noisest places will not be disagreeable to him.”
+
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future05.jpeg left width=60%
+
+.ve-media ve-media https://edisondigital.rutgers.edu/iiif/PA117 right width=60%
+
 
 ## Communicating with the Dead
 
