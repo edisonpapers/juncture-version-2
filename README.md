@@ -146,7 +146,7 @@ Between 1891 and 1892, the [Nugget Library](https://dimenovels.lib.niu.edu/islan
 
 The first dime novel to feature a boy inventor was Edward S Ellis’s The Steam Man of the Praries, published in 1868.
 
-### The Tom Edison Jr. Stories
+## The Tom Edison Jr. Stories
 
 Philip Reade, the author of the Tom Edison, Jr. series, was among those influenced Ellis. Reade’s works included Tom Edison Jr.’s Electric Sea Spider and Tom Edison Jr.’s Electric Mule.  A subsequent group of dime novels known as the [Frank Reade Jr. series](https://library.si.edu/digital-library/book/frank-reade-weekly-magazine-containing-stories-adventures-land-sea-air), written by Luis P. Senarens from 1882 to 1898, depict the adventures of Frank Reade’s inventor son who creates inventions such as submarines, vehicles and airships.
 
