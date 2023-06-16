@@ -122,7 +122,7 @@ After the collaboration on “Progress” for Sidney McClure’s syndicate faile
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg left caption="'In the Deep of Time' Introduction" width=60%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg right width=60%  
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time02.jpeg right caption="'In the Deep of Time' notes" width=60%  
 
 The technologies depicted in the story were mainly derived from the extant set of notes with Lathrop’s annotations found in Edison’s papers. However, facsimile reproductions of other notes reproduced in the serialization suggest that Lathrop also drew on notes by Edison that no longer exist. The introduction to the story makes clear that while he relied on Edison’s notes for “suggestions as to inventions and changed mechanical, industrial and social conditions in the future,”  it was Lathrop who was solely responsible for the story.
 
