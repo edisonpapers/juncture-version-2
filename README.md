@@ -4,7 +4,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 ## Introduction 
 
-In the exhibit that follows we explore the ways in which Edison, during his lifetime, speculated about the technological future and inspired others to imagine how science and technology would change society.  The centerpiece of this exhibit is the collaboration between Edison and journalist George Parsons Lathrop on a novel of the future in the style of Edward Bellamy’s Looking Backward.  It also examines serious and satirical fiction  in which Edison appears as a protaganist and dime novels known as Edisonades.  It concludes by looking at Edison’s own speculations about the future that appeared in newspaper and journal interviews.
+In the exhibit that follows we explore the ways in which Edison, during his lifetime, speculated about the technological future and inspired others to imagine how science and technology would change society.  The centerpiece of this exhibit is the collaboration between Edison and journalist George Parsons Lathrop on a novel of the future in the style of Edward Bellamy’s [#lookingbackward]Looking Backward.  It also examines serious and satirical fiction  in which Edison appears as a protaganist and dime novels known as Edisonades.  It concludes by looking at Edison’s own speculations about the future that appeared in newspaper and journal interviews.
 
 ## The Wizard of Menlo Park
 
@@ -54,7 +54,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 *Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
-## Read *Looking Backward*
+## <a name="#lookingbackward">Read *Looking Backward*</a>
 
 .ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell/manifest.json left width=60% seq=10
 
