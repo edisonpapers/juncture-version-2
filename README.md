@@ -46,7 +46,7 @@ Villiers describes the transformation of Edison from man to myth In the [preface
 > In America and in Europe a legend has sprung up in the popular mind regarding this great citizen of the United States.  He has become the recipient of thousands of nicknames, such as “The Magician of the Century,” “The Sorcerer of Menlo Park,” the “Papa of the Phonograph,” and so forth and so on.  A perfectly natural enthusiasm in his own country and elsewhere has conferred on him a kind of mystique, or something like it, in many minds. Henceforth, doesn’t the personage of this legend—even while the man is still alive who inspired it—belong to the world of literature?  For example, if Doctor Johann Faust had been living in the age of Goethe and had given rise to his symbolic legend at that time, wouldn’t the writing of Faust, even then, have been a perfectly legitimate undertaking? Thus, the Edison of the present work, his character, his dwelling, his language, and his theories, are and ought to be at least somewhat distinct from anything existing in reality. Let it be understood, then, that I interpret a modern legend to the best advantage of Art-metaphysics that I have conceived; and that, in a word, the hero of this book is above all “The Sorcerer of Menlo Park,” and so forth—and not the engineer, Mr. Edison, our contemporary.
 [quoted from Robert Martin Adams’s translation, Tomorrow’s Eve, University of Illinois Press, 1982]
 
-## Looking Backward
+## [name=#lookingbackward]Looking Backward
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg right width=80%
 
@@ -54,7 +54,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 *Looking Backward* was a commentary on late 19th century issues and in it Bellamy sought to imagine solutions to real problems.  Following its publication, the book inspired numerous sequels and commentaries, as well as a real political movement through the establishment of Nationalist Clubs intended to realize Bellamy’s vision of the future. Among the book projects inspired by *Looking Backward* was a collaboration between journalist George Parson Lathrop and inventor Thomas Edison.
 
-## [Read *Looking Backward*](#lookingbackward)
+## Read *Looking Backward*
 
 .ve-media https://iiif.archivelab.org/iiif/lookingbackward200bell/manifest.json left width=60% seq=10
 
