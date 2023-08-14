@@ -250,7 +250,7 @@ In the mid-1890s, Edison began speculating about the future of alternative energ
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80% caption="Elbert Hubbard"
 
 He further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the Little Journeys to the Homes of Great Men.  [Little Journeys to the Homes of Great Men](https://archive.org/details/littlejourneysto19161hubb/page/339/mode/1up?view=theater) “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
-<br><br><br><br><br><br><br><br>
+
 ### Read Hubbard's Interview with Edison
 
 .ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=376 width=60%
@@ -320,6 +320,8 @@ A decade later, in interviews that appeared in [Scientific American](https://idi
 
 No verifiable evidence has ever been found regarding Edison’s work on a device to communicate with the dead.  Nonetheless, the belief has persisted that Edison built such a device and some have even claimed to have knowledge of what the device looked like. The first description of such a device appeared in the October 1933 issue of *Modern Mechanix*:
 
+### <a id="my-header"></a> Header
+
 In a darkened room in his great laboratory, surrounded with beakers, generators, and other experimental equipment, Edison set up a photo-electric cell. A tiny pencil of light, coming from a powerful lamp, bored through the darkness and struck the active surface of this cell, where it was transformed instantly into a feeble electric current. Any object, no matter how thin, transparent or small, would cause a registration on the cell if it cut through the beam. This experiment, which the article describes as a failure, is likely related to Edison's experiments to find an unknown force he called "XYX." These experiments began in [December 1885](https://edisondigital.rutgers.edu/folder/N313-F) and continued periodically into the 1920s.
 
 An even more dubious device was described in the April 1963 issue of Fate. The author claimed that with the help of a medium tracings of the lost blueprints of Edison’s device had been found.  Although a machine was made based on these tracings it did not work.
@@ -333,3 +335,160 @@ A third device known as the psychophone was also attributed to Edison.  However,
 If Edison did attempt to make such a device, it is clear that by time Marshall again interviewed him on the topic he thought the difficulties of such an investigation would be too difficult to overcome. This interview appeared under the headline “Has Man an Immortal Soul” in the November 1926 issue of *The Forum*. It included the following discussion by Edison of the difficulties that confronted scientific research on the subject.
 
 “There are two reasons why we do not possess positive knowledge on the difficult subject of the soul and immortality. Principal of these is the fact that we do not at present know how even to begin investigation of them. Thought in this line has been nebulous and loose. Mathematics, which is the only exact science we possess, cannot be applied to it in any way as yet discovered. The Soul apparently is not something to be analyzed by chemists or weighed in scales, or photographed, or recorded by any instruments whatever.”
+
+Stephen Charles Weiss
+Stephen Charles Weiss
+Posted on Dec 8, 2019 • Originally published at stephencharlesweiss.com on Oct 10, 2019
+
+
+12
+
+2
+Named Anchors & Markdown
+#
+tutorial
+#
+markdown
+When writing longer files in Markdown, I find it useful to create links within the document to help readers navigate.
+
+This cross referencing makes jumping around the document even simpler.1 (Note: this 1 is an example of the link I'm talking about!)
+
+For example:
+…
+
+### <a id="my-header"></a> Header
+
+…
+And then later, I want to go to [Header](#my-header), you create a link, just like any other.
+The reason we have to add the anchor tag to the Header is that the Markdown spec doesn’t automatically do it.
+
+Fortunately, many Markdown resolvers do. Dev.to, Gitlab, VSCode, Remark, etc. all do!
+
+If you’re using one of these to convert the Markdown to HTML, things are even simpler2 :
+…
+
+### My Stupendous Header
+
+…
+And then later, I want to go to the [header](#my-stupendous-header), you create a link, just like any other.
+Footnotes
+1 markdown - How to link to a named anchor in Multimarkdown? | Stack Overflow
+2 Since this is not part of the standard, the specifics for the link can vary, however the most common practice I’ve seen is kebab case.
+Top comments (4)
+
+Subscribe
+pic
+Add to the discussion
+ 
+ 
+caffiendkitten profile image
+DaNeil C
+•
+Dec 15 '20
+
+How did you get the footnotes to have a raised number like that?
+
+
+1
+Like
+ 
+ 
+luisjosesanchez profile image
+Luis José Sánchez
+•
+Oct 11 '20
+
+Thanks a lot! Works for me :-)
+
+
+1
+Like
+ 
+ 
+murrayvarey profile image
+MurrayVarey
+•
+Feb 12 '20
+
+Thanks Stephen! This really helped me. (A bit after the event, I know ... )
+
+
+1
+Like
+ 
+ 
+thiagokj profile image
+Thiago Cajaíba
+•
+Mar 14
+
+Helped me a lot!
+
+
+1
+Like
+Code of Conduct • Report abuse
+profile
+Hatica
+PROMOTED
+
+Engineering Analytics Platform
+
+10x Your Engineering Team’s Performance!
+Hatica aggregates activity from all your work apps like Github, JIRA to PagerDuty and CI/CD tools and equips engineering teams with work visibility dashboards, actionable insights, and effective workflows to drive velocity, alignment, and well-being.
+
+✅Understand the reason behind the delay in software deliveries and improve the delivery velocity.
+✅Ensure your engineering team's work is aligned with the business goals of your organization.
+✅Improve the Developer Experience.
+
+And so much more...!
+Request a Demo
+
+Read next
+petertech profile image
+Reducing JPEG UIImage RAM Usage by 50%
+Peter Iakovlev - Jul 30
+
+baransel profile image
+Solving hCaptcha with Puppeteer and Python
+Baransel - Jul 19
+
+cmoaiforme profile image
+Personalized Virtual Friend for Meaningful Conversations with AI
+Akanksha Singh - Jun 26
+
+unfor19 profile image
+Writing Bash Scripts Like A Pro - Part 2 - Error Handling
+Meir Gabay - Jul 29
+
+
+Stephen Charles Weiss
+Follow
+Engineer | Lover of dogs, books, and learning | Dos XX can be most interesting man in the world, I'm happy being the luckiest. | I write about what I learn @ code-comments.com
+LOCATION
+Chicago, IL
+WORK
+Software Engineer at Olo
+JOINED
+Aug 28, 2018
+More from Stephen Charles Weiss
+Shell Scripts: How To Run Them
+#beginners #tutorial
+Converting Synchronous Code to Asynchronous
+#javascript #tutorial #async
+An Even More Basic React App Tutorial
+#react #tutorial
+DEV Community
+
+Image description
+
+Create An Account on DEV
+
+Over one million developers have registered already!
+
+…
+
+
+
+…
+And then later, I want to go to [Header](#my-header), you create a link, just like any other.
