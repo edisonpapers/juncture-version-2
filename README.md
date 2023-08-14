@@ -253,7 +253,7 @@ He further elaborated his views of future alternative energy sources in an inter
 
 ### Read Hubbard's Interview with Edison
 
-.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=376 width=60%
+.ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=376 width=60% left
 
 ## Medicine
 
