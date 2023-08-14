@@ -250,7 +250,7 @@ In the mid-1890s, Edison began speculating about the future of alternative energ
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future02.jpeg left width=80% caption="Elbert Hubbard"
 
 He further elaborated his views of future alternative energy sources in an interview with Elbert Hubbard, author of the Little Journeys to the Homes of Great Men.  [Little Journeys to the Homes of Great Men](https://archive.org/details/littlejourneysto19161hubb/page/339/mode/1up?view=theater) “When we learn how to store electricity, we will cease being apes ourselves; until then we are tailless orangutans. You see, we should utilize natural forces and thus get all of our power. Sunshine is a form of energy, and the winds and tides are manifestations of energy.”
-<br><br><br>
+<br><br><br><br><br>
 ### Read Hubbard's Interview with Edison
 
 .ve-media https://iiif.archivelab.org/iiif/littlejourneysto19161hubb/manifest.json seq=376 width=60%
