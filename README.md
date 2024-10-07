@@ -24,6 +24,8 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 
 It was Crouffut who dubbed Edison the =="Wizard of Menlo Park."=={164,1,392,252}
 
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/10/manifest right
+
 
 ## Punch's Almanack
 
